@@ -1,9 +1,12 @@
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from backend.app.routes.ssl import router as ssl_router
 from backend.app.routes.message import router as message_router
 from backend.app.routes.url import router as url_router
 from backend.app.routes.qr import router as qr_router
+from backend.app.routes.dns import router as dns_router
+from backend.app.routes.scan import router as scan_router
 
 app = FastAPI(
     title="Deceptrix API",
@@ -22,6 +25,9 @@ app.add_middleware(
 app.include_router(url_router)
 app.include_router(message_router)
 app.include_router(qr_router)
+app.include_router(dns_router)
+app.include_router(ssl_router)
+app.include_router(scan_router)
 
 @app.get("/")
 def root():

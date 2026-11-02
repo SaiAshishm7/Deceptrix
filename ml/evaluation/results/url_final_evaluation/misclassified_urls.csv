@@ -1,0 +1,938 @@
+model,url,actual,predicted,phishing_probability
+Original Random Forest,https://slack.com/intl/en-in/,0,1,0.5105349615704067
+Original Random Forest,http://www.babytree.com/baby202208_index/,0,1,0.5268318036380366
+Original Random Forest,https://mediasetinfinity.mediaset.it/,0,1,0.80199571794227
+Original Random Forest,https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2F3c.tmall.com%2F,0,1,0.5334146201054685
+Original Random Forest,https://pages.tmall.com/wow/a/act/tmall/dailygroup/1446/wupr?wh_pid=daily-256039,0,1,0.680627612978566
+Original Random Forest,https://pages.tmall.com/wow/a/act/tmall/dailygroup/18/wupr?wh_pid=daily-268514,0,1,0.6664938487779826
+Original Random Forest,https://uniqlo.world.tmall.com/,0,1,0.7113885018179233
+Original Random Forest,https://wargaming.net/en,0,1,0.5093495646147055
+Original Random Forest,https://watsons.world.tmall.com/shop/view_shop.htm,0,1,0.8163146492750801
+Original Random Forest,https://crm.broker.xxx/domain.php?q=r18.com,0,1,0.6678537398919655
+Original Random Forest,https://all-free-download.com/,0,1,0.8385461331989805
+Original Random Forest,https://moscow.megafon.ru/,0,1,0.693953457153776
+Original Random Forest,https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2Fcontent.tmall.com%2F,0,1,0.5469871742724041
+Original Random Forest,https://www.streaming-unlimited.com/,0,1,0.5162671742544551
+Original Random Forest,http://slither.io/?a,0,1,0.599812363923669
+Original Random Forest,https://ex.24smi.info/top/,0,1,0.6688985544592932
+Original Random Forest,http://ww1.nnm-club.name,0,1,0.5126822073312562
+Original Random Forest,https://tweakers.net/,0,1,0.6050527948974185
+Original Random Forest,https://nvzhuang.tmall.com/,0,1,0.6033306985640079
+Original Random Forest,https://nanzhuang.tmall.com/,0,1,0.557276343721493
+Original Random Forest,https://samsonite.world.tmall.com/shop/view_shop.htm,0,1,0.8507849005885626
+Original Random Forest,https://hyxyr.world.tmall.com/shop/view_shop.htm,0,1,0.7460813587256953
+Original Random Forest,https://kohsantepheapdaily.com.kh/,0,1,0.5330502269465627
+Original Random Forest,https://gainreel.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8074733923341558
+Original Random Forest,https://azams.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7517542176237242
+Original Random Forest,https://pierrecardinxb.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8342785045869833
+Original Random Forest,https://qiannaimei.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8132115675325773
+Original Random Forest,https://eastpak.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7673436032873856
+Original Random Forest,https://maniform.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7860252703071442
+Original Random Forest,https://calvinklein.world.tmall.com/shop/view_shop.htm,0,1,0.8919952812477279
+Original Random Forest,https://imis.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.6958855964436738
+Original Random Forest,https://binnitu.world.tmall.com/shop/view_shop.htm,0,1,0.875833041299703
+Original Random Forest,http://rus.porn/categories/,0,1,0.5318053988735973
+Original Random Forest,http://blog.esuteru.com/,0,1,0.6473677284616979
+Original Random Forest,https://feba.bobibanking.com/default.htm,0,1,0.8384150923713932
+Original Random Forest,https://habr.com/en/flows/popsci/articles/,0,1,0.6756757457270335
+Original Random Forest,https://club.kdslife.com/new/home,0,1,0.567260674524224
+Original Random Forest,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=12b38b2e-6a02-11f0-9c83-549a60f71e66&vid=,0,1,0.5941153531187378
+Original Random Forest,http://www.10010.com/wt_service_web/index.html,0,1,0.5642395985871608
+Original Random Forest,https://tinypic.com/tinypic-blog,0,1,0.5169767851244517
+Original Random Forest,https://app.screencast.com/,0,1,0.6071935886832406
+Original Random Forest,https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki,0,1,0.9716344839512072
+Original Random Forest,https://greasyfork.org/en,0,1,0.6982852331691155
+Original Random Forest,https://mediametrics.ru/rating/ru/online.html,0,1,0.7826061238994751
+Original Random Forest,https://optifine.net/home,0,1,0.5817877807405895
+Original Random Forest,https://mafia.game168.com.tw,0,1,0.7711673312649829
+Original Random Forest,https://plaync.com/en-us/index,0,1,0.5757194618963077
+Original Random Forest,https://pornchatting.com/men/tags/hd+,0,1,0.6943642423523085
+Original Random Forest,https://hapitas.jp/register,0,1,0.627753008740194
+Original Random Forest,https://accounts.freemail.hu/a/login,0,1,0.9045897171211721
+Original Random Forest,https://www.berliner-sparkasse.de/de/home.html,0,1,0.5273250425089164
+Original Random Forest,http://hetlerbazar.wapka.me/,0,1,0.6427754478507085
+Original Random Forest,https://scholarship-positions.com/,0,1,0.8308164429882001
+Original Random Forest,https://login.planningcenteronline.com/login/new?return=Services%2Fdashboard,0,1,0.7915893969909986
+Original Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0726250516010es0OEJYtogTDj_mFMMxIMcYF0TLkQ8KXYnuz9y2ESKxki0HLy1D4DIi-VN9S6E697uLLyhA3PcU1CQAmhFYTdfIi-DkOY9CQKBV84Q0LdgWVCx7Z3XHDf3Nqu9WJb9TbhShxhGz2IQzrkXOXAcWUPOj2eRn1JS9riDfoStLizbNWopUPCLUANNdtjanI49LmvKnmo2bhMzUWMmLXNJHw6juntySgEtzqy_vJVdXSGDnl3_B1BbQ4863GwVUoBSMjRnlEtMy_eSyYdMBczYW7CKTbtk4apAhBI3EaAPrlUH6fuP2IaNESiGpRbVByw5XfnVclL_EgUOIka8I-SSQsEcLXdmwOvlVt3ToJ3TQagrlxsp0UaJsUGzA7QviJhDxB,0,1,0.86492917358388
+Original Random Forest,https://imlive.com/webcam-girls/,0,1,0.6269155748578464
+Original Random Forest,http://mesmask.org/,1,0,0.08824580675179983
+Original Random Forest,https://imtoqen.im/,1,0,0.013784488422734099
+Original Random Forest,https://ccav.opera.red/,1,0,0.42518629780866457
+Original Random Forest,https://whadipsap.vavsakk.com/,1,0,0.4339071594626538
+Original Random Forest,https://www.simmonsllns.vercel.app/,1,0,0.39242810535132894
+Original Random Forest,https://ledgerapp.vip/,1,0,0.05591373224682728
+Original Random Forest,https://www.iadeceptee.duckdns.org/,1,0,0.30804526217576816
+Original Random Forest,https://verifier683858.click/,1,0,0.43928156512526795
+Original Random Forest,https://cedark.com/sup/,1,0,0.2517969532154591
+Original Random Forest,https://www.validacaodados.ru.com/,1,0,0.0721140693664802
+Original Random Forest,https://office365log.com/,1,0,0.27750091001691135
+Original Random Forest,https://max-vfp-shop.fourthwall.com:443/,1,0,0.43278120900572115
+Original Random Forest,https://dvdcanal.com/fr,1,0,0.46590355938686434
+Original Random Forest,https://coursier-ferie.com/,1,0,0.4981756682128028
+Original Random Forest,https://btservices.univer.se/,1,0,0.4990660133912818
+Original Random Forest,https://hoo.be/nlx,1,0,0.4893217216267165
+Original Random Forest,https://org-t.club/,1,0,0.07424671025623322
+Original Random Forest,https://www.konzept-bau.ch/kontakt/,1,0,0.15264841694829656
+Original Random Forest,http://mbh-b.click/,1,0,0.0605638483173493
+Original Random Forest,https://www.cardah.shop/jp/mem/index.jsp/#/,1,0,0.39136557161730473
+Original Random Forest,https://to.nifesnet.com/,1,0,0.09185900639424228
+Original Random Forest,https://aztecno.com.co/jul/,1,0,0.29421707963820315
+Original Random Forest,https://www.assistenza-q8.it/download.php?f=1,1,0,0.23799608844960302
+Original Random Forest,https://istudioegypt.com/me/idd/,1,0,0.4791060118805427
+Original Random Forest,https://bancosgallcia.za.com/,1,0,0.42196893373040056
+Original Random Forest,https://hopp.bio/drsd,1,0,0.3618877685312039
+Original Random Forest,https://www.hopp.bio/drsd,1,0,0.013080841674468291
+Original Random Forest,https://vcasas.framer.ai/,1,0,0.24331349501321423
+Original Random Forest,https://asia.mcdbiz.com/,1,0,0.12209411261526508
+Original Random Forest,https://km.ywoum.cn/promote/,1,0,0.4450225419436334
+Original Random Forest,http://www.shoptiktok.today/,1,0,0.2564997626623649
+Original Random Forest,https://www.reactstudio.it/00/OTP_CheckPoint_process.php,1,0,0.4007185688014104
+Original Random Forest,https://www.reactstudio.it/00/OTP_CheckPoint_process_confirmation.php,1,0,0.46686331540812614
+Original Random Forest,https://www.reactstudio.it/00/mailprovider.php,1,0,0.38549146014994573
+Original Random Forest,http://iworksolutions.org/,1,0,0.16360574994101987
+Original Random Forest,https://conveyancingportal.com/,1,0,0.08951839374633398
+Original Random Forest,http://whatsappoivip.com/,1,0,0.04855939100968126
+Original Random Forest,http://telegrarvm.work/,1,0,0.1120629143875354
+Original Random Forest,http://upspostalstamp.com/,1,0,0.16303339124739416
+Original Random Forest,https://acgmw.com/,1,0,0.007107181745669558
+Original Random Forest,http://ojntflue.live/,1,0,0.36307565650366336
+Original Random Forest,http://imt0ken-ya.life/,1,0,0.41722589524370723
+Original Random Forest,http://akqgbvsx.live/,1,0,0.2575279406754605
+Original Random Forest,http://ebeb666.shop/,1,0,0.4470358618467368
+Original Random Forest,http://univtgbot.my/,1,0,0.022514974394824666
+Original Random Forest,http://lqnqzk.world/,1,0,0.09700765480895801
+Original Random Forest,http://betnxigm.skin/,1,0,0.36307565650366336
+Original Random Forest,https://www.kerekesszekalkatresz.hu/Remanes//,1,0,0.3758907064760827
+Original Random Forest,https://syncsbase.pages.dev/,1,0,0.35737925851326124
+Original Random Forest,https://claro-pe.cam/,1,0,0.29481821179696666
+Original Random Forest,https://claroapp.icu/,1,0,0.15662470032231837
+Original Random Forest,https://frasaa.xyz/,1,0,0.012804174223638689
+Original Random Forest,https://fyxiesoe.cc/,1,0,0.012677118011735556
+Original Random Forest,https://movistar-es.ink/,1,0,0.449785326704133
+Original Random Forest,https://pogsthe.top/,1,0,0.4303548756818003
+Original Random Forest,https://silpostgv.one/,1,0,0.030478928828510544
+Original Random Forest,https://singport.ink/,1,0,0.2679681730434687
+Original Random Forest,https://telcelshop.club/,1,0,0.25396095883871755
+Original Random Forest,https://telcelshop.cn/,1,0,0.16288410535324463
+Original Random Forest,https://drgbox.com/login/login,1,0,0.48227686612941
+Original Random Forest,https://fyxiesoe.cc/pe,1,0,0.4583695212682033
+Original Random Forest,https://dgte.cc/sp/,1,0,0.36240249475966846
+Original Random Forest,https://dgte.cc/sp,1,0,0.47044761610925584
+Original Random Forest,https://usi.tfdbvlz.xyz/,1,0,0.3784448043836117
+Original Random Forest,https://claroapp.icu/pe/,1,0,0.43352312623761685
+Original Random Forest,https://jfkddktds.webflow.io/,1,0,0.4229148323525406
+Original Random Forest,https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx,0,1,0.5179183918924548
+Original Random Forest,https://corporatefinanceinstitute.com/,0,1,0.62003567290225
+Original Random Forest,http://msofficesharedfiles.com/,1,0,0.23311071673337427
+Original Random Forest,https://metamaskrectify.com/,1,0,0.05026484444221155
+Original Random Forest,http://blnancceindex.com/,1,0,0.029333928811258455
+Original Random Forest,https://otwrm.com/,1,0,0.008475984765300065
+Original Random Forest,http://www.steagiftdigial.top/,1,0,0.16298138812443858
+Original Random Forest,https://yadi.sk/showcaptcha?cc=1&mt=37F1B0FC029420714F36F1D6C60BC03C96B7B2AC72AB1BDD2DC031B5B3CD274E03777D4D44B3955657694CC3F06311841DD16EC555D7416DFE043DE3ACC84B5689840576B3F4015A5529412EAEA22F948C0EE80815BA7A13D931A74990C131980420BF3845A240891BB3E2DE4FFAADD2AF750A273A975CED1FD5A17D4C21372A049510D0B35DBF028684B7E91D3CA76D1382E2063E58DC7AF9325410CC35ACBDA4C92DA4BB5A313EF6EE47F152DE5CB766177289F10F765E409AFF4489F6A2C6FCBCBF97AC8F17FC6B0425DA006854D928FF02142B3A61F0F424BF8369D9AC48C93BEE5CAA6DB5DC105E27E2F097BE1560C758&retpath=aHR0cHM6Ly95YWRpLnNrLz8%2C_ecfef6d916bba9f759246781d851e77c&t=2/1742733729/0d26c823d6695dda43e22eb12f960974&u=6272416405145168063&s=84389fb92ee1e13b88434f2f3e2c5ef2,0,1,0.5000494410590591
+Original Random Forest,https://download.cnet.com/,0,1,0.5875711872358452
+Original Random Forest,https://developer.apple.com/,0,1,0.6865777299888784
+Original Random Forest,https://company.wizards.com/en,0,1,0.6770376181405184
+Original Random Forest,https://healthy.kaiserpermanente.org/front-door,0,1,0.9593150247159239
+Original Random Forest,https://www.basketball-reference.com/,0,1,0.5627383845080426
+Original Random Forest,https://creditcards.chase.com/,0,1,0.5347864815479616
+Original Random Forest,https://bethesda.net/en,0,1,0.7117577598999667
+Original Random Forest,https://global.brother/en/gateway?utm_source=brother.com_via_CGI&utm_medium=referral,0,1,0.5082071851544094
+Original Random Forest,https://forum.hkgolden.com/channel/BW,0,1,0.8012840797007895
+Original Random Forest,https://www.national-lottery.co.uk/,0,1,0.5557284541886501
+Original Random Forest,https://notepad-plus-plus.org/,0,1,0.6703087032165392
+Original Random Forest,https://stock.adobe.com/in?as_campaign=ftmigration2&as_channel=dpcft&as_campclass=brand&as_source=ft_web&as_camptype=acquisition&as_audience=users&as_content=closure_home-page,0,1,0.5157097827948415
+Original Random Forest,https://emedicine.medscape.com/,0,1,0.612095917006886
+Original Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0419251039520zXcjNPtZyyBgom9qRyRrg3tuEJxyCGyyvvf0cgnAgjLIhAxI4y4tiNUJBl-7Z7z3_5SbU3pUKZtqOPMtY8dPgto4wXdu83VQ0kSj4Hg1dSXDTuWekCTMrZS6J_dI8ouNCkBpar0L0tzb0gUg5ztIJBssBit5fYctH-zrxUByvmmQkarT1qkhHBsRGDxqFbQJUYsa3xN_kT3DKQ43hPcUdIJmSIWPcSRkhWSqdPULJcmO2x77GAAnDL6N0R9hMd6TRfOH7sqaH_zbJJzQ6kIgjCIEm9AM0whSavrtJ2eT1rz4lq51HGx5OwgY1UFYG3UK57k2CqhfSG-JsY3k6Zy-36kZiau73_gClhAC5bug73LEFWlyLJfNHjynGf8V_CkN,0,1,0.8647421221561997
+Original Random Forest,https://www.free-power-point-templates.com/,0,1,0.6326044061959092
+Original Random Forest,https://www.worldmarket.com/on/demandware.store/Sites-World_Market-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cud29ybGRtYXJrZXQuY29tL29uL2RlbWFuZHdhcmUuc3RvcmUvU2l0ZXMtV29ybGRfTWFya2V0LVNpdGU%3d&frame=1745077196613,0,1,0.729084205223604
+Original Random Forest,https://moversguide.usps.com/mgo/,0,1,0.8316453681604172
+Original Random Forest,https://www.rakutengo.today/,1,0,0.022647065546971785
+Original Random Forest,https://app.mnuebay.top/,1,0,0.2732120766887186
+Original Random Forest,https://cn.wanbo44.bet/,1,0,0.3788565691119801
+Original Random Forest,http://zcp626.com/,1,0,0.16508854949152035
+Original Random Forest,http://yaboxxx909.com/,1,0,0.4644008196688787
+Original Random Forest,http://biosvod.com.ua/be/,1,0,0.46221908332298034
+Original Random Forest,http://ekaln.sbs/,1,0,0.015773898710027906
+Original Random Forest,http://coinbaseuserpage.com/,1,0,0.23197231674472837
+Original Random Forest,https://ainunfashion.info/,1,0,0.1954287954702038
+Original Random Forest,http://www.heartnhatrang.com/wp_include/,1,0,0.38311015480971133
+Original Random Forest,http://www.pb3652.cc/,1,0,0.2499444621849915
+Original Random Forest,http://yabofuli666.com/,1,0,0.3115525882249236
+Original Random Forest,https://ziraaaxtttkredddi.xyz/,1,0,0.09510562589500283
+Original Random Forest,https://taton.hk/inst/index.html,1,0,0.3366829240328619
+Original Random Forest,http://m.zowvins.cn/,1,0,0.25882433103411445
+Original Random Forest,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=3cfaa0e7-7391-11f0-b7a1-7b35080390a2&vid=,0,1,0.576245967889137
+Original Random Forest,https://13dl.net/index.html,0,1,0.6215601564618528
+Original Random Forest,https://forbidden.lagou.com/forbidden/fb.html?ip=152.57.130.140,0,1,0.8457159449094253
+Original Random Forest,https://perfectdomain.com/domain/5dcar.com,0,1,0.7624994843302852
+Original Random Forest,https://4porn.com/en/,0,1,0.5249511870645546
+Original Random Forest,https://perfectdomain.com/domain/ruporus.com,0,1,0.5732064461191438
+Original Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0807250829170gf-yby3g_5JWbfA1-sdX4tzGs6oxpJiQFJ9kC-F8pjhWsCdzXGc2OLCIe8y8qBNUCIBuY6F86ye2i7U6NIFckWT_r3VAHAAVT7dYOAZ__AakxU28QWkd0stoKEd2NQnC0xWzRJhzbwQ7SvFegbRp_6DijyUSCh4RU5sEiodC5dl_WXeRo8UzieJzOjrztKo8aKh1reOb2OLmh2V2QnXR3TlsmiUNdbACa1dICZK3MjdkQc43begt_Oa8Hu3EYdWuPl-qVxhcqFB6gPTPIjbZijwgU7ZOqmRXwACzSU2sGGMZRuO-h7FwgePlvp5qsxUOM3VqZhoLfnDYLMRwdfFUNSlBIxxiM8t3qc3OasMxWzQ20Vw2oQhOlrF-Q4gpLZmp,0,1,0.8688239227210283
+Original Random Forest,https://myself-bbs.com/portal.php,0,1,0.809661390831103
+Original Random Forest,http://www.tinyurl.com/29j8mrtr/,1,0,0.46830515004293516
+Original Random Forest,https://www.tiktok687.com/,1,0,0.016500604581498254
+Original Random Forest,http://pmpack.com.ua/,1,0,0.4047972439189374
+Original Random Forest,https://623te.cc/,1,0,0.09295522435460432
+Original Random Forest,http://kmwqa.cn/,1,0,0.010052573127274955
+Original Random Forest,http://trpeiprzak.com/,1,0,0.024512226466618534
+Original Random Forest,http://www.smvvatesa.com,1,0,0.3847901057738128
+Original Random Forest,https://9assest.io/,1,0,0.04715408824510934
+Original Random Forest,https://mobilpanelci.com/,1,0,0.04285254020115796
+Original Random Forest,https://cuenta-renueva.com/,1,0,0.3484584052183194
+Original Random Forest,https://ovodeoro.com/htaccess/,1,0,0.3951252562391294
+Original Random Forest,https://re-welfare.click/,1,0,0.3680683673655148
+Original Random Forest,https://re-subsidy.click/,1,0,0.3204230487573009
+Original Random Forest,https://colis-clients.com/,1,0,0.35477717777263285
+Original Random Forest,https://vinci-supportulys.com/,1,0,0.4540408909505079
+Original Random Forest,http://horalka.net,1,0,0.20186863673768463
+Original Random Forest,https://savnetfiixmxico.com/,1,0,0.067968288914962
+Original Random Forest,https://www.google.hr/,1,0,0.0016208390416852332
+Original Random Forest,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=b768a17a-7850-11f0-9a33-9297daad0bf0&vid=,0,1,0.5795228798740518
+Original Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0813250930590osLWDChF-h_nDJwTz8YIn8I_7FyWpatHRiwQFwQ9EwhuuUbvhUBs1G5to6weSdXu85RRKuWg63lAxr-1Tg0ep5Y2vGMG8WpPgPv2900P-Sw1E4MraPjGBBJLQW_ks1vf2PDan1yxFwvYOKrSOT_i-F8GIjqfM4HgRM3pNAvQN0v93Gyw6n3JC98q4eyRsOQQhSim7N8TyGTprouSxrGuFu7lWRNp0NlSJwyylLfhoeXRf6em0uuX4UANhZwaZSVCrVEFKTTR4rHJQ0_5_XFQ5bqKmTZgYCkGPcaaJHrUe6S67GgtenZGQD8GjadvRY5FOKeNpFia-cXTnZlD2f5nL4N1hsyUuhOvKCn_w-35l_26D3dci4pH_v-Gn7MX4KKj,0,1,0.8671282600342085
+Original Random Forest,https://ontonet.org/avrora,0,1,0.5345761949376804
+Original Random Forest,https://strategicmanagementinsight.com/,0,1,0.5966423076073241
+Original Random Forest,https://partner.expediagroup.com/en-us,0,1,0.9889301051285647
+Original Random Forest,https://perfectdomain.com/domain/legacyclix.com,0,1,0.633758254095386
+Original Random Forest,https://custom.gettyimages.com/imagenet/p/1,0,1,0.8889535407867714
+Original Random Forest,http://cmitelevision.com.co/,0,1,0.5476749054599906
+Original Random Forest,https://welcome.saddleback.com/,0,1,0.7247380977209636
+Original Random Forest,https://wuhu.world.tmall.com/shop/view_shop.htm,0,1,0.6691891412373311
+Original Random Forest,https://le-blog-sam-la-touch.over-blog.com/,0,1,0.917133272269077
+Original Random Forest,https://userportal.pqs.pearsonprd.tech/redirect?UserPortalReturnUrl=https://edexcelonline.pearson.com/Account/Login.aspx,0,1,0.886070478118807
+Original Random Forest,https://password-online.com/,0,1,0.6633338102712556
+Original Random Forest,https://documenta.de/de,0,1,0.6455075353021705
+Original Random Forest,https://transportnsw.info/regional-travel,0,1,0.6773034079794594
+Original Random Forest,https://crocs.world.tmall.com/shop/view_shop.htm,0,1,0.709807913602812
+Original Random Forest,https://tor-browser.ru/,0,1,0.5350896721544036
+Original Random Forest,https://cnews.com.tw/RUNCLOUD-7G-WAF-BLOCKED,0,1,0.8139485910142834
+Original Random Forest,https://converse.world.tmall.com/shop/view_shop.htm,0,1,0.8538162264607025
+Original Random Forest,https://instiressources.blogspot.com/,0,1,0.8291750433652507
+Original Random Forest,https://www.ketogenic-diet-resource.com/,0,1,0.7501402756789329
+Original Random Forest,https://www.sparkasse-vogtland.de/de/home.html,0,1,0.5129116653858488
+Original Random Forest,https://inloggen.parnassys.net/idp/,0,1,0.8946197429267931
+Original Random Forest,http://ww1.granny-videos.com,0,1,0.8198067580692755
+Original Random Forest,https://perfectdomain.com/domain/testpot.com,0,1,0.5953317612070564
+Original Random Forest,https://pullman.accor.com/gb/asia/index.shtml,0,1,0.8782472314791399
+Original Random Forest,https://forma-odezhda.com/,0,1,0.5165296020416671
+Original Random Forest,https://legacytexasbankonline.com/,0,1,0.5096494330540375
+Original Random Forest,https://kycvintage.bigcartel.com/,0,1,0.9615944608797361
+Original Random Forest,http://usbgabc.com/home/user/login/,0,1,0.6319511594253728
+Original Random Forest,https://dd.zcrlx.com/download/284_0.html,0,1,0.799315102416547
+Original Random Forest,https://amit.ru/evroremont/home/,0,1,0.540372834836905
+Original Random Forest,https://intifada1453.org/,0,1,0.5172110198393501
+Original Random Forest,https://e-noticies.cat/,0,1,0.6028252509319586
+Original Random Forest,https://money-news-online.com/,0,1,0.7370824700668852
+Original Random Forest,https://zarabotat-na-sajte.ru/,0,1,0.712974812311568
+Original Random Forest,https://spotify.okta.com/app/spotifyprod_spotifynet_1/exk6vfwgijPqP7VZg1t7/sso/saml?SAMLRequest=hZJBT8JAEIX%2FSrN32LYGsBsgKRQSEjUElYMXsqmDrra7dWcK%2BO%2BdFjEYjZ52MzMv876XGaIui0qlNT3bFbzVgBQcysKiahsjUXurnEaDyuoSUFGubtPrKxV3Q1V5Ry53hTiT%2FK3QiODJOCuCRTYSm%2Fk0nCVR0o%2BzOJ6F8WV%2FMJ1fpJPJLE0Gk2yWiGANHnl%2BJFjOIsQaFhZJW%2BJSGPc64WUnuriLeipMVC9%2BEEHGDMZqalXPRBUqKbFyZLbvXfdKupu7UuqqOhUZ43Hz%2BbdAm0jC4bW%2F2%2B6fzMvybTlYPzxFNJCITjaEIpg6i9AY%2BAs1Pw6pvPae344pq8LkhkQwdz6HNvGR2OoCoeFacjRmB1%2BV9JRUs6wuwd%2BC35kc7ldXP6nYtSyhKJyVlUNaATd4uxgPG8OqTc2Pf1MN5fnE8HgNNwyzyJaO%2Fb43bkv9D2tTMY%2BdbTuqyGuLhpmZgj3tpx40MRn5GoQcH1d%2Bv7nxBw%3D%3D&RelayState=https%3A%2F%2Fspotify.net%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=s8JfDrIhg1LrSjElOvYS58ObQjL%2Bo1Y1kAM512RUpKBI%2F8HXXaXSiQZH1Lghi7SwE9DPwrtDdwGtveHNIMcdKW4KobwSAyElZQOPmTu2SEkKzs1VWeZXfGllHGE33bhvSEiPtCxiK%2F1%2Fof9EE6llYf%2BnqCy%2FC6oO3UC3h1gcVSMfVMiXd7nbkNq%2FaML%2Fwa%2FeG6W%2BFd64jgbZ0AEPkZmSM%2F092pYNYo%2BbpQ%2Bq9trXXxlzOOy4TkLb8c5iZHguWlLScNtw2u2Iq81QwvRevrFrokvXTbMA8Psf0hh5uj2SM95NCGJ%2FwxEQwsfjXC0CsjMOq3beLx5IPMHgeXxYZXmZXA%3D%3D,0,1,0.5457430779398036
+Original Random Forest,https://wof.fish/forum/index.php/topic/4370-skachat-rybalku/,0,1,0.9111182973675122
+Original Random Forest,http://amazonzjv.co/,1,0,0.022514974394824666
+Original Random Forest,https://keensalmon.org/en-ca/wallet,1,0,0.4773903219971225
+Original Random Forest,https://keensalmon.org/en-ca/prime,1,0,0.4520705225441306
+Original Random Forest,https://keensalmon.org/en-ca/blog,1,0,0.43854044589944824
+Original XGBoost,https://slack.com/intl/en-in/,0,1,0.6199839115142822
+Original XGBoost,http://www.babytree.com/baby202208_index/,0,1,0.7997111082077026
+Original XGBoost,https://mediasetinfinity.mediaset.it/,0,1,0.8912039995193481
+Original XGBoost,https://habr.com/en/feed/,0,1,0.5060469508171082
+Original XGBoost,https://pages.tmall.com/wow/a/act/tmall/dailygroup/1446/wupr?wh_pid=daily-256039,0,1,0.9127947092056274
+Original XGBoost,https://pages.tmall.com/wow/a/act/tmall/dailygroup/18/wupr?wh_pid=daily-268514,0,1,0.8360138535499573
+Original XGBoost,https://uniqlo.world.tmall.com/,0,1,0.9462409615516663
+Original XGBoost,https://watsons.world.tmall.com/shop/view_shop.htm,0,1,0.8697841763496399
+Original XGBoost,https://crm.broker.xxx/domain.php?q=r18.com,0,1,0.9476507306098938
+Original XGBoost,https://all-free-download.com/,0,1,0.9125159978866577
+Original XGBoost,https://moscow.megafon.ru/,0,1,0.7380900979042053
+Original XGBoost,http://slither.io/?a,0,1,0.7838153839111328
+Original XGBoost,https://ex.24smi.info/top/,0,1,0.8980437517166138
+Original XGBoost,https://tweakers.net/,0,1,0.546684741973877
+Original XGBoost,https://nvxie.tmall.com/,0,1,0.5916708111763
+Original XGBoost,https://nvzhuang.tmall.com/,0,1,0.6185957789421082
+Original XGBoost,https://samsonite.world.tmall.com/shop/view_shop.htm,0,1,0.917695939540863
+Original XGBoost,https://hyxyr.world.tmall.com/shop/view_shop.htm,0,1,0.7396692037582397
+Original XGBoost,https://gainreel.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.9492752552032471
+Original XGBoost,https://azams.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8141941428184509
+Original XGBoost,https://pierrecardinxb.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8802273273468018
+Original XGBoost,https://qiannaimei.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8696825504302979
+Original XGBoost,https://eastpak.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8789743781089783
+Original XGBoost,https://maniform.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.9286528825759888
+Original XGBoost,https://calvinklein.world.tmall.com/shop/view_shop.htm,0,1,0.961497962474823
+Original XGBoost,https://imis.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.5535094738006592
+Original XGBoost,https://binnitu.world.tmall.com/shop/view_shop.htm,0,1,0.9407106041908264
+Original XGBoost,http://rus.porn/categories/,0,1,0.8079633712768555
+Original XGBoost,https://feba.bobibanking.com/default.htm,0,1,0.9110540151596069
+Original XGBoost,https://habr.com/en/flows/popsci/articles/,0,1,0.8017565011978149
+Original XGBoost,https://megogo.net/en,0,1,0.5432182550430298
+Original XGBoost,https://club.kdslife.com/new/home,0,1,0.5632185339927673
+Original XGBoost,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=12b38b2e-6a02-11f0-9c83-549a60f71e66&vid=,0,1,0.6955128908157349
+Original XGBoost,http://www.10010.com/wt_service_web/index.html,0,1,0.9259618520736694
+Original XGBoost,https://app.screencast.com/,0,1,0.9516833424568176
+Original XGBoost,https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki,0,1,0.9877498745918274
+Original XGBoost,https://www.yes24.com/Main/default.aspx,0,1,0.5681219696998596
+Original XGBoost,https://greasyfork.org/en,0,1,0.7854230403900146
+Original XGBoost,https://mediametrics.ru/rating/ru/online.html,0,1,0.913262665271759
+Original XGBoost,https://optifine.net/home,0,1,0.8423624038696289
+Original XGBoost,https://mafia.game168.com.tw,0,1,0.9202170968055725
+Original XGBoost,https://plaync.com/en-us/index,0,1,0.5208748579025269
+Original XGBoost,http://italia-film.gratis/,0,1,0.6598454713821411
+Original XGBoost,https://pornchatting.com/men/tags/hd+,0,1,0.7143148183822632
+Original XGBoost,https://hapitas.jp/register,0,1,0.7397531867027283
+Original XGBoost,https://accounts.freemail.hu/a/login,0,1,0.9550058245658875
+Original XGBoost,https://alwadifa-maroc.com/,0,1,0.5127540826797485
+Original XGBoost,https://www.lumen.com/en-us/about/legal.html.html,0,1,0.7807490229606628
+Original XGBoost,https://www.berliner-sparkasse.de/de/home.html,0,1,0.5032429695129395
+Original XGBoost,http://hetlerbazar.wapka.me/,0,1,0.8341621160507202
+Original XGBoost,https://scholarship-positions.com/,0,1,0.8196796178817749
+Original XGBoost,https://login.planningcenteronline.com/login/new?return=Services%2Fdashboard,0,1,0.8416021466255188
+Original XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0726250516010es0OEJYtogTDj_mFMMxIMcYF0TLkQ8KXYnuz9y2ESKxki0HLy1D4DIi-VN9S6E697uLLyhA3PcU1CQAmhFYTdfIi-DkOY9CQKBV84Q0LdgWVCx7Z3XHDf3Nqu9WJb9TbhShxhGz2IQzrkXOXAcWUPOj2eRn1JS9riDfoStLizbNWopUPCLUANNdtjanI49LmvKnmo2bhMzUWMmLXNJHw6juntySgEtzqy_vJVdXSGDnl3_B1BbQ4863GwVUoBSMjRnlEtMy_eSyYdMBczYW7CKTbtk4apAhBI3EaAPrlUH6fuP2IaNESiGpRbVByw5XfnVclL_EgUOIka8I-SSQsEcLXdmwOvlVt3ToJ3TQagrlxsp0UaJsUGzA7QviJhDxB,0,1,0.9045639038085938
+Original XGBoost,https://imlive.com/webcam-girls/,0,1,0.7649009823799133
+Original XGBoost,http://mesmask.org/,1,0,0.05487634614109993
+Original XGBoost,https://imtoqen.im/,1,0,0.023991968482732773
+Original XGBoost,https://ebay.hjd-vd.top/,1,0,0.359504759311676
+Original XGBoost,https://ccav.opera.red/,1,0,0.24471108615398407
+Original XGBoost,https://whadipsap.vavsakk.com/,1,0,0.4135745167732239
+Original XGBoost,https://www.simmonsllns.vercel.app/,1,0,0.3869984447956085
+Original XGBoost,https://ledgerapp.vip/,1,0,0.057792987674474716
+Original XGBoost,https://www.iadeceptee.duckdns.org/,1,0,0.19046323001384735
+Original XGBoost,https://magaluo.gsggs.com/,1,0,0.4764433205127716
+Original XGBoost,https://verifier683858.click/,1,0,0.09335248172283173
+Original XGBoost,https://cedark.com/sup/,1,0,0.40380367636680603
+Original XGBoost,https://www.validacaodados.ru.com/,1,0,0.013731093145906925
+Original XGBoost,https://office365log.com/,1,0,0.17022767663002014
+Original XGBoost,https://max-vfp-shop.fourthwall.com:443/,1,0,0.04096721485257149
+Original XGBoost,https://dvdcanal.com/fr,1,0,0.3667486906051636
+Original XGBoost,https://btservices.univer.se/,1,0,0.2810000777244568
+Original XGBoost,https://hoo.be/nlx,1,0,0.3840619921684265
+Original XGBoost,https://org-t.club/,1,0,0.03937845304608345
+Original XGBoost,https://www.konzept-bau.ch/kontakt/,1,0,0.041848938912153244
+Original XGBoost,http://mbh-b.click/,1,0,0.20645791292190552
+Original XGBoost,http://acessodigitalbia.sa.com,1,0,0.4325193762779236
+Original XGBoost,https://www.bing.com/ck/a?!&amp;amp;&amp;amp;p=611067cf84dc2e7c3cb65912068deb6be27a3fda61dec2fd731453e2cfc4b98fJmltdHM9MTc1MjcxMDQwMA&amp;amp;ptn=3&amp;amp;ver=2&amp;amp;hsh=4&amp;amp;fclid=072c8f02-4f82-6e57-0094-99274edf6fe4&amp;amp;psq=https%3a%2f%2fwww.konzept-bau.ch%2f&amp;amp;u=a1aHR0cHM6Ly93d3cua29uemVwdC1iYXUuY2gva29udGFrdC8&amp;amp;ntb=1,1,0,0.48548945784568787
+Original XGBoost,https://biowebsite.org/MyBT,1,0,0.4643738865852356
+Original XGBoost,https://to.nifesnet.com/,1,0,0.13784711062908173
+Original XGBoost,https://aztecno.com.co/jul/,1,0,0.2463287115097046
+Original XGBoost,https://www.assistenza-q8.it/download.php?f=1,1,0,0.152224600315094
+Original XGBoost,https://istudioegypt.com/me/idd/,1,0,0.4796393811702728
+Original XGBoost,https://bancosgallcia.za.com/,1,0,0.2389596849679947
+Original XGBoost,https://hopp.bio/drsd,1,0,0.4094451367855072
+Original XGBoost,https://www.hopp.bio/drsd,1,0,0.0025317806284874678
+Original XGBoost,https://vcasas.framer.ai/,1,0,0.1839294284582138
+Original XGBoost,https://asia.mcdbiz.com/,1,0,0.19306759536266327
+Original XGBoost,https://www.reactstudio.it/00/OTP_CheckPoint_process.php,1,0,0.03137777000665665
+Original XGBoost,https://www.reactstudio.it/00/OTP_CheckPoint_process_confirmation.php,1,0,0.05098462477326393
+Original XGBoost,https://www.reactstudio.it/00/mailprovider.php,1,0,0.1394529789686203
+Original XGBoost,http://iworksolutions.org/,1,0,0.2274218052625656
+Original XGBoost,https://conveyancingportal.com/,1,0,0.06997739523649216
+Original XGBoost,http://whatsappoivip.com/,1,0,0.0184165071696043
+Original XGBoost,http://telegrarvm.work/,1,0,0.16984663903713226
+Original XGBoost,http://upspostalstamp.com/,1,0,0.13210012018680573
+Original XGBoost,https://acgmw.com/,1,0,0.005446538794785738
+Original XGBoost,http://ojntflue.live/,1,0,0.263411283493042
+Original XGBoost,http://imt0ken-ya.life/,1,0,0.3180674910545349
+Original XGBoost,http://akqgbvsx.live/,1,0,0.2413691133260727
+Original XGBoost,http://ebeb666.shop/,1,0,0.4898316562175751
+Original XGBoost,https://savoy.thepiratbay.info/48-707-221124/?u=105C707&e=irys32adres%40op.pl&s3=Jadwiga&s4=Grubska,1,0,0.2988814115524292
+Original XGBoost,http://univtgbot.my/,1,0,0.027340451255440712
+Original XGBoost,http://lqnqzk.world/,1,0,0.07170312851667404
+Original XGBoost,http://betnxigm.skin/,1,0,0.263411283493042
+Original XGBoost,https://www.kerekesszekalkatresz.hu/Remanes//,1,0,0.43733131885528564
+Original XGBoost,https://syncsbase.pages.dev/,1,0,0.24497731029987335
+Original XGBoost,https://claro-pe.cam/,1,0,0.24137958884239197
+Original XGBoost,https://claroapp.icu/,1,0,0.13204340636730194
+Original XGBoost,https://frasaa.xyz/,1,0,0.025870593264698982
+Original XGBoost,https://fyxiesoe.cc/,1,0,0.029269251972436905
+Original XGBoost,https://movistar-es.ink/,1,0,0.4124126136302948
+Original XGBoost,https://poeist.top/,1,0,0.4962552785873413
+Original XGBoost,https://pogsthe.top/,1,0,0.43613582849502563
+Original XGBoost,https://silpostgv.one/,1,0,0.04303945228457451
+Original XGBoost,https://singport.ink/,1,0,0.21043023467063904
+Original XGBoost,https://telcelshop.club/,1,0,0.06503771990537643
+Original XGBoost,https://telcelshop.cn/,1,0,0.18436183035373688
+Original XGBoost,https://drgbox.com/login/login,1,0,0.378470778465271
+Original XGBoost,https://fyxiesoe.cc/pe,1,0,0.442776083946228
+Original XGBoost,https://dgte.cc/sp/,1,0,0.4721696674823761
+Original XGBoost,https://dgte.cc/sp,1,0,0.44791921973228455
+Original XGBoost,https://usi.tfdbvlz.xyz/,1,0,0.2762972414493561
+Original XGBoost,https://claroapp.icu/pe/,1,0,0.43262845277786255
+Original XGBoost,https://jfkddktds.webflow.io/,1,0,0.4315301477909088
+Original XGBoost,https://corporatefinanceinstitute.com/,0,1,0.7638512253761292
+Original XGBoost,http://msofficesharedfiles.com/,1,0,0.2487163096666336
+Original XGBoost,https://metamaskrectify.com/,1,0,0.05477526783943176
+Original XGBoost,https://sevreh59.pages.dev/privacyprefs?ref_=footer_iba,1,0,0.2883414924144745
+Original XGBoost,http://blnancceindex.com/,1,0,0.02916359156370163
+Original XGBoost,https://otwrm.com/,1,0,0.0056116594932973385
+Original XGBoost,https://sitisae.sbs/lander/sber/,1,0,0.49861234426498413
+Original XGBoost,http://www.steagiftdigial.top/,1,0,0.07531271874904633
+Original XGBoost,https://nps.gov/index.htm,0,1,0.7021543383598328
+Original XGBoost,https://download.cnet.com/,0,1,0.5751142501831055
+Original XGBoost,https://developer.apple.com/,0,1,0.8665757179260254
+Original XGBoost,https://company.wizards.com/en,0,1,0.830292284488678
+Original XGBoost,https://healthy.kaiserpermanente.org/front-door,0,1,0.9246425628662109
+Original XGBoost,https://www.basketball-reference.com/,0,1,0.6332672834396362
+Original XGBoost,https://bethesda.net/en,0,1,0.9126113057136536
+Original XGBoost,https://play.runescape.com,0,1,0.6879866719245911
+Original XGBoost,https://all.accor.com/a/en.html,0,1,0.6888153553009033
+Original XGBoost,https://forum.hkgolden.com/channel/BW,0,1,0.960819661617279
+Original XGBoost,https://www.national-lottery.co.uk/,0,1,0.7854223251342773
+Original XGBoost,https://notepad-plus-plus.org/,0,1,0.6714046001434326
+Original XGBoost,https://emedicine.medscape.com/,0,1,0.6390267014503479
+Original XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0419251039520zXcjNPtZyyBgom9qRyRrg3tuEJxyCGyyvvf0cgnAgjLIhAxI4y4tiNUJBl-7Z7z3_5SbU3pUKZtqOPMtY8dPgto4wXdu83VQ0kSj4Hg1dSXDTuWekCTMrZS6J_dI8ouNCkBpar0L0tzb0gUg5ztIJBssBit5fYctH-zrxUByvmmQkarT1qkhHBsRGDxqFbQJUYsa3xN_kT3DKQ43hPcUdIJmSIWPcSRkhWSqdPULJcmO2x77GAAnDL6N0R9hMd6TRfOH7sqaH_zbJJzQ6kIgjCIEm9AM0whSavrtJ2eT1rz4lq51HGx5OwgY1UFYG3UK57k2CqhfSG-JsY3k6Zy-36kZiau73_gClhAC5bug73LEFWlyLJfNHjynGf8V_CkN,0,1,0.9019203782081604
+Original XGBoost,https://www.free-power-point-templates.com/,0,1,0.639009952545166
+Original XGBoost,https://www.worldmarket.com/on/demandware.store/Sites-World_Market-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cud29ybGRtYXJrZXQuY29tL29uL2RlbWFuZHdhcmUuc3RvcmUvU2l0ZXMtV29ybGRfTWFya2V0LVNpdGU%3d&frame=1745077196613,0,1,0.8509687185287476
+Original XGBoost,https://moversguide.usps.com/mgo/,0,1,0.8759093880653381
+Original XGBoost,http://findyourphone.org/?i=uA98t,1,0,0.40924471616744995
+Original XGBoost,https://www.rakutengo.today/,1,0,0.0034414727706462145
+Original XGBoost,https://app.mnuebay.top/,1,0,0.11386685073375702
+Original XGBoost,https://cn.wanbo44.bet/,1,0,0.20622578263282776
+Original XGBoost,http://zcp626.com/,1,0,0.07572552561759949
+Original XGBoost,http://biosvod.com.ua/be/,1,0,0.49893718957901
+Original XGBoost,https://bill.fast-shipping.it/?rid=KoipdGV,1,0,0.46408575773239136
+Original XGBoost,http://ekaln.sbs/,1,0,0.014878821559250355
+Original XGBoost,http://coinbaseuserpage.com/,1,0,0.15871024131774902
+Original XGBoost,https://ainunfashion.info/,1,0,0.16537541151046753
+Original XGBoost,http://www.heartnhatrang.com/wp_include/,1,0,0.26948678493499756
+Original XGBoost,http://www.pb3652.cc/,1,0,0.09292637556791306
+Original XGBoost,http://yabofuli666.com/,1,0,0.1643243134021759
+Original XGBoost,https://ziraaaxtttkredddi.xyz/,1,0,0.038878072053194046
+Original XGBoost,https://taton.hk/inst/index.html,1,0,0.1625811904668808
+Original XGBoost,http://m.zowvins.cn/,1,0,0.07936649769544601
+Original XGBoost,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=3cfaa0e7-7391-11f0-b7a1-7b35080390a2&vid=,0,1,0.6674771904945374
+Original XGBoost,https://13dl.net/index.html,0,1,0.7837163209915161
+Original XGBoost,https://forbidden.lagou.com/forbidden/fb.html?ip=152.57.130.140,0,1,0.9470165371894836
+Original XGBoost,https://perfectdomain.com/domain/5dcar.com,0,1,0.8140870928764343
+Original XGBoost,https://perfectdomain.com/domain/ruporus.com,0,1,0.6162721514701843
+Original XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0807250829170gf-yby3g_5JWbfA1-sdX4tzGs6oxpJiQFJ9kC-F8pjhWsCdzXGc2OLCIe8y8qBNUCIBuY6F86ye2i7U6NIFckWT_r3VAHAAVT7dYOAZ__AakxU28QWkd0stoKEd2NQnC0xWzRJhzbwQ7SvFegbRp_6DijyUSCh4RU5sEiodC5dl_WXeRo8UzieJzOjrztKo8aKh1reOb2OLmh2V2QnXR3TlsmiUNdbACa1dICZK3MjdkQc43begt_Oa8Hu3EYdWuPl-qVxhcqFB6gPTPIjbZijwgU7ZOqmRXwACzSU2sGGMZRuO-h7FwgePlvp5qsxUOM3VqZhoLfnDYLMRwdfFUNSlBIxxiM8t3qc3OasMxWzQ20Vw2oQhOlrF-Q4gpLZmp,0,1,0.8898488879203796
+Original XGBoost,https://longdo.com/main/,0,1,0.5463506579399109
+Original XGBoost,https://myself-bbs.com/portal.php,0,1,0.9154215455055237
+Original XGBoost,https://skyera-hk.com/,1,0,0.43137887120246887
+Original XGBoost,https://www.tiktok687.com/,1,0,0.008751417510211468
+Original XGBoost,https://623te.cc/,1,0,0.013240166939795017
+Original XGBoost,https://www.sorrireviver.org.br/web1-cgn/webmail_login.php,1,0,0.3616558909416199
+Original XGBoost,http://kmwqa.cn/,1,0,0.01186478789895773
+Original XGBoost,http://trpeiprzak.com/,1,0,0.04477343708276749
+Original XGBoost,http://www.smvvatesa.com,1,0,0.4623924791812897
+Original XGBoost,https://9assest.io/,1,0,0.0246026162058115
+Original XGBoost,https://9assest.io/login.php,1,0,0.3645734190940857
+Original XGBoost,https://www.okde.hu/wp-admin/desk/GlobalSources/?email=3mail@b.c,1,0,0.4777688980102539
+Original XGBoost,https://mobilpanelci.com/,1,0,0.0591127909719944
+Original XGBoost,https://cuenta-renueva.com/captcha,1,0,0.4197794795036316
+Original XGBoost,https://us2.campaign-archive.com/?e=7c262c7663&u=c1e16267038965aeba6040c87&id=2e5388b99c,1,0,0.4569147825241089
+Original XGBoost,https://arrowsone.com/components/com_jce/editor/libraries/views/popups/tmpl/,1,0,0.20478162169456482
+Original XGBoost,https://ovodeoro.com/htaccess/,1,0,0.3273177146911621
+Original XGBoost,https://re-welfare.click/,1,0,0.30180954933166504
+Original XGBoost,https://re-subsidy.click/,1,0,0.21071775257587433
+Original XGBoost,https://vinci-supportulys.com/,1,0,0.399078369140625
+Original XGBoost,https://us2.campaign-archive.com/?e=7c262c7663&u=c1e16267038965aeba6040c87&id=9a6bef0dc8,1,0,0.42045819759368896
+Original XGBoost,https://us2.campaign-archive.com/?e=7c262c7663&u=c1e16267038965aeba6040c87&id=c435807f5c,1,0,0.4569147825241089
+Original XGBoost,http://horalka.net,1,0,0.15174540877342224
+Original XGBoost,https://savnetfiixmxico.com/,1,0,0.03639849275350571
+Original XGBoost,https://tinyurl.com/dftyuioZSS,1,0,0.3203588128089905
+Original XGBoost,https://us1.campaign-archive.com/?e=d68e78f4ea&u=6c46b9dcd46f0164fc506a7a8&id=8d980f067d,1,0,0.4410851299762726
+Original XGBoost,https://www.google.hr/,1,0,0.00040151915163733065
+Original XGBoost,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=b768a17a-7850-11f0-9a33-9297daad0bf0&vid=,0,1,0.6957798004150391
+Original XGBoost,https://italia-film.gratis/,0,1,0.5591444969177246
+Original XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0813250930590osLWDChF-h_nDJwTz8YIn8I_7FyWpatHRiwQFwQ9EwhuuUbvhUBs1G5to6weSdXu85RRKuWg63lAxr-1Tg0ep5Y2vGMG8WpPgPv2900P-Sw1E4MraPjGBBJLQW_ks1vf2PDan1yxFwvYOKrSOT_i-F8GIjqfM4HgRM3pNAvQN0v93Gyw6n3JC98q4eyRsOQQhSim7N8TyGTprouSxrGuFu7lWRNp0NlSJwyylLfhoeXRf6em0uuX4UANhZwaZSVCrVEFKTTR4rHJQ0_5_XFQ5bqKmTZgYCkGPcaaJHrUe6S67GgtenZGQD8GjadvRY5FOKeNpFia-cXTnZlD2f5nL4N1hsyUuhOvKCn_w-35l_26D3dci4pH_v-Gn7MX4KKj,0,1,0.8932249546051025
+Original XGBoost,https://ontonet.org/avrora,0,1,0.670366108417511
+Original XGBoost,https://strategicmanagementinsight.com/,0,1,0.7036212682723999
+Original XGBoost,https://partner.expediagroup.com/en-us,0,1,0.9758407473564148
+Original XGBoost,https://perfectdomain.com/domain/legacyclix.com,0,1,0.5296519994735718
+Original XGBoost,https://custom.gettyimages.com/imagenet/p/1,0,1,0.9931935667991638
+Original XGBoost,https://welcome.saddleback.com/,0,1,0.8209536075592041
+Original XGBoost,https://reklama-crimea.com/,0,1,0.5626516938209534
+Original XGBoost,https://wuhu.world.tmall.com/shop/view_shop.htm,0,1,0.5649538636207581
+Original XGBoost,https://le-blog-sam-la-touch.over-blog.com/,0,1,0.9992855191230774
+Original XGBoost,https://userportal.pqs.pearsonprd.tech/redirect?UserPortalReturnUrl=https://edexcelonline.pearson.com/Account/Login.aspx,0,1,0.9819945693016052
+Original XGBoost,https://password-online.com/,0,1,0.6285853385925293
+Original XGBoost,https://avcom.co.za/phpBB3/,0,1,0.5884213447570801
+Original XGBoost,https://transportnsw.info/regional-travel,0,1,0.8619409203529358
+Original XGBoost,https://crocs.world.tmall.com/shop/view_shop.htm,0,1,0.7562726736068726
+Original XGBoost,https://cnews.com.tw/RUNCLOUD-7G-WAF-BLOCKED,0,1,0.9561021327972412
+Original XGBoost,https://converse.world.tmall.com/shop/view_shop.htm,0,1,0.876928985118866
+Original XGBoost,https://instiressources.blogspot.com/,0,1,0.8615047931671143
+Original XGBoost,https://www.ketogenic-diet-resource.com/,0,1,0.7061695456504822
+Original XGBoost,http://www.cn3x.com.cn/index.html,0,1,0.734255313873291
+Original XGBoost,https://inloggen.parnassys.net/idp/,0,1,0.8512988686561584
+Original XGBoost,https://bckv.edu.in/index.php/en/,0,1,0.5330860614776611
+Original XGBoost,http://ww1.granny-videos.com,0,1,0.9640324115753174
+Original XGBoost,https://perfectdomain.com/domain/testpot.com,0,1,0.6842940449714661
+Original XGBoost,https://www.versandhaus-schneider.de/,0,1,0.5016397833824158
+Original XGBoost,https://pullman.accor.com/gb/asia/index.shtml,0,1,0.9873166084289551
+Original XGBoost,https://forma-odezhda.com/,0,1,0.5001317858695984
+Original XGBoost,https://kycvintage.bigcartel.com/,0,1,0.9608961343765259
+Original XGBoost,http://usbgabc.com/home/user/login/,0,1,0.7306443452835083
+Original XGBoost,https://dd.zcrlx.com/download/284_0.html,0,1,0.8829671144485474
+Original XGBoost,https://amit.ru/evroremont/home/,0,1,0.6628256440162659
+Original XGBoost,http://bdmusic25.life/,0,1,0.5563473701477051
+Original XGBoost,https://money-news-online.com/,0,1,0.8611968159675598
+Original XGBoost,https://zarabotat-na-sajte.ru/,0,1,0.7194772958755493
+Original XGBoost,https://spotify.okta.com/app/spotifyprod_spotifynet_1/exk6vfwgijPqP7VZg1t7/sso/saml?SAMLRequest=hZJBT8JAEIX%2FSrN32LYGsBsgKRQSEjUElYMXsqmDrra7dWcK%2BO%2BdFjEYjZ52MzMv876XGaIui0qlNT3bFbzVgBQcysKiahsjUXurnEaDyuoSUFGubtPrKxV3Q1V5Ry53hTiT%2FK3QiODJOCuCRTYSm%2Fk0nCVR0o%2BzOJ6F8WV%2FMJ1fpJPJLE0Gk2yWiGANHnl%2BJFjOIsQaFhZJW%2BJSGPc64WUnuriLeipMVC9%2BEEHGDMZqalXPRBUqKbFyZLbvXfdKupu7UuqqOhUZ43Hz%2BbdAm0jC4bW%2F2%2B6fzMvybTlYPzxFNJCITjaEIpg6i9AY%2BAs1Pw6pvPae344pq8LkhkQwdz6HNvGR2OoCoeFacjRmB1%2BV9JRUs6wuwd%2BC35kc7ldXP6nYtSyhKJyVlUNaATd4uxgPG8OqTc2Pf1MN5fnE8HgNNwyzyJaO%2Fb43bkv9D2tTMY%2BdbTuqyGuLhpmZgj3tpx40MRn5GoQcH1d%2Bv7nxBw%3D%3D&RelayState=https%3A%2F%2Fspotify.net%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=s8JfDrIhg1LrSjElOvYS58ObQjL%2Bo1Y1kAM512RUpKBI%2F8HXXaXSiQZH1Lghi7SwE9DPwrtDdwGtveHNIMcdKW4KobwSAyElZQOPmTu2SEkKzs1VWeZXfGllHGE33bhvSEiPtCxiK%2F1%2Fof9EE6llYf%2BnqCy%2FC6oO3UC3h1gcVSMfVMiXd7nbkNq%2FaML%2Fwa%2FeG6W%2BFd64jgbZ0AEPkZmSM%2F092pYNYo%2BbpQ%2Bq9trXXxlzOOy4TkLb8c5iZHguWlLScNtw2u2Iq81QwvRevrFrokvXTbMA8Psf0hh5uj2SM95NCGJ%2FwxEQwsfjXC0CsjMOq3beLx5IPMHgeXxYZXmZXA%3D%3D,0,1,0.6515480279922485
+Original XGBoost,http://www.standaloneofflineinstallers.com/,0,1,0.7508222460746765
+Original XGBoost,https://wof.fish/forum/index.php/topic/4370-skachat-rybalku/,0,1,0.9954745173454285
+Original XGBoost,https://cross-webmedia.com/,0,1,0.520313560962677
+Original XGBoost,http://amazonzjv.co/,1,0,0.027340451255440712
+Original XGBoost,https://keensalmon.org/en-ca/legal/us,1,0,0.4960798919200897
+Original XGBoost,https://keensalmon.org/en-ca/learn/tips-and-tutorials/how-to-land-an-entry-level-job-in-crypto,1,0,0.3877251148223877
+Original XGBoost,https://keensalmon.org/en-ca/learn/tips-and-tutorials/how-to-set-up-a-crypto-wallet,1,0,0.4586807191371918
+Original XGBoost,https://keensalmon.org/en-ca/wallet,1,0,0.4180745780467987
+Original XGBoost,https://keensalmon.org/en-ca/learn/tips-and-tutorials/what-is-the-ethereum-cancun-upgrade,1,0,0.3060068190097809
+Original XGBoost,https://keensalmon.org/en-ca/learn/tips-and-tutorials/how-to-read-candlestick-charts,1,0,0.3438436686992645
+Original XGBoost,https://keensalmon.org/en-ca/earn/staking/sui,1,0,0.3999826908111572
+Original XGBoost,https://keensalmon.org/en-ca/developer-platform/slo,1,0,0.4640868902206421
+Original XGBoost,https://keensalmon.org/en-ca/prime,1,0,0.20605023205280304
+Original XGBoost,https://keensalmon.org/en-ca/blog,1,0,0.2148427665233612
+Tuned Random Forest,https://slack.com/intl/en-in/,0,1,0.5347595341895449
+Tuned Random Forest,http://www.babytree.com/baby202208_index/,0,1,0.5795065722766072
+Tuned Random Forest,https://mediasetinfinity.mediaset.it/,0,1,0.8140764965052816
+Tuned Random Forest,https://habr.com/en/feed/,0,1,0.5316972770360409
+Tuned Random Forest,https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2F3c.tmall.com%2F,0,1,0.5201551352248214
+Tuned Random Forest,https://pages.tmall.com/wow/a/act/tmall/dailygroup/1446/wupr?wh_pid=daily-256039,0,1,0.7055329719963864
+Tuned Random Forest,https://pages.tmall.com/wow/a/act/tmall/dailygroup/18/wupr?wh_pid=daily-268514,0,1,0.667194845417842
+Tuned Random Forest,https://uniqlo.world.tmall.com/,0,1,0.7144620343504713
+Tuned Random Forest,https://wargaming.net/en,0,1,0.5270403679175892
+Tuned Random Forest,https://watsons.world.tmall.com/shop/view_shop.htm,0,1,0.7829395732702024
+Tuned Random Forest,https://crm.broker.xxx/domain.php?q=r18.com,0,1,0.6641833969360099
+Tuned Random Forest,https://all-free-download.com/,0,1,0.8367103960101547
+Tuned Random Forest,https://moscow.megafon.ru/,0,1,0.7137065493044155
+Tuned Random Forest,https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2Fcontent.tmall.com%2F,0,1,0.5507858156812857
+Tuned Random Forest,https://www.streaming-unlimited.com/,0,1,0.5075709594029882
+Tuned Random Forest,http://slither.io/?a,0,1,0.650949563987362
+Tuned Random Forest,https://ex.24smi.info/top/,0,1,0.7178897066006705
+Tuned Random Forest,https://tweakers.net/,0,1,0.6400010150985835
+Tuned Random Forest,https://nvzhuang.tmall.com/,0,1,0.6260209167905604
+Tuned Random Forest,https://nanzhuang.tmall.com/,0,1,0.5549787643392491
+Tuned Random Forest,https://samsonite.world.tmall.com/shop/view_shop.htm,0,1,0.8367828269254618
+Tuned Random Forest,https://hyxyr.world.tmall.com/shop/view_shop.htm,0,1,0.7440523181452017
+Tuned Random Forest,https://gainreel.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7890042368265364
+Tuned Random Forest,https://azams.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7503355271647956
+Tuned Random Forest,https://pierrecardinxb.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8282111390996408
+Tuned Random Forest,https://qiannaimei.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7887221308824098
+Tuned Random Forest,https://eastpak.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7554508918620417
+Tuned Random Forest,https://maniform.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7803432114407722
+Tuned Random Forest,https://calvinklein.world.tmall.com/shop/view_shop.htm,0,1,0.8962150388608547
+Tuned Random Forest,https://imis.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.6870324281474104
+Tuned Random Forest,https://binnitu.world.tmall.com/shop/view_shop.htm,0,1,0.8517502309249053
+Tuned Random Forest,http://rus.porn/categories/,0,1,0.6108539350699627
+Tuned Random Forest,http://blog.esuteru.com/,0,1,0.673897670471642
+Tuned Random Forest,https://feba.bobibanking.com/default.htm,0,1,0.8382567907928096
+Tuned Random Forest,https://habr.com/en/flows/popsci/articles/,0,1,0.6250576530193255
+Tuned Random Forest,https://club.kdslife.com/new/home,0,1,0.5334148540138767
+Tuned Random Forest,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=12b38b2e-6a02-11f0-9c83-549a60f71e66&vid=,0,1,0.5530759729366
+Tuned Random Forest,http://www.10010.com/wt_service_web/index.html,0,1,0.6212695647364637
+Tuned Random Forest,https://tinypic.com/tinypic-blog,0,1,0.5256507202596611
+Tuned Random Forest,https://app.screencast.com/,0,1,0.6246400251019686
+Tuned Random Forest,https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki,0,1,0.9608619766846557
+Tuned Random Forest,https://greasyfork.org/en,0,1,0.7195354887636704
+Tuned Random Forest,https://mediametrics.ru/rating/ru/online.html,0,1,0.8002778299359617
+Tuned Random Forest,https://optifine.net/home,0,1,0.624541876835368
+Tuned Random Forest,https://mafia.game168.com.tw,0,1,0.74079154965325
+Tuned Random Forest,https://plaync.com/en-us/index,0,1,0.5626753892287591
+Tuned Random Forest,https://pornchatting.com/men/tags/hd+,0,1,0.707880302453209
+Tuned Random Forest,https://hapitas.jp/register,0,1,0.6444725574250113
+Tuned Random Forest,https://accounts.freemail.hu/a/login,0,1,0.9162493189900789
+Tuned Random Forest,https://www.berliner-sparkasse.de/de/home.html,0,1,0.5432622126872997
+Tuned Random Forest,http://hetlerbazar.wapka.me/,0,1,0.6795331498861809
+Tuned Random Forest,https://scholarship-positions.com/,0,1,0.825479070905544
+Tuned Random Forest,https://login.planningcenteronline.com/login/new?return=Services%2Fdashboard,0,1,0.7705701866851693
+Tuned Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0726250516010es0OEJYtogTDj_mFMMxIMcYF0TLkQ8KXYnuz9y2ESKxki0HLy1D4DIi-VN9S6E697uLLyhA3PcU1CQAmhFYTdfIi-DkOY9CQKBV84Q0LdgWVCx7Z3XHDf3Nqu9WJb9TbhShxhGz2IQzrkXOXAcWUPOj2eRn1JS9riDfoStLizbNWopUPCLUANNdtjanI49LmvKnmo2bhMzUWMmLXNJHw6juntySgEtzqy_vJVdXSGDnl3_B1BbQ4863GwVUoBSMjRnlEtMy_eSyYdMBczYW7CKTbtk4apAhBI3EaAPrlUH6fuP2IaNESiGpRbVByw5XfnVclL_EgUOIka8I-SSQsEcLXdmwOvlVt3ToJ3TQagrlxsp0UaJsUGzA7QviJhDxB,0,1,0.8551531994911786
+Tuned Random Forest,https://imlive.com/webcam-girls/,0,1,0.6012099990792122
+Tuned Random Forest,http://mesmask.org/,1,0,0.10464931449650337
+Tuned Random Forest,https://imtoqen.im/,1,0,0.016453499089271163
+Tuned Random Forest,https://whadipsap.vavsakk.com/,1,0,0.3388250263375069
+Tuned Random Forest,https://ledgerapp.vip/,1,0,0.07178199659738317
+Tuned Random Forest,https://www.iadeceptee.duckdns.org/,1,0,0.33490749933505676
+Tuned Random Forest,https://magaluo.gsggs.com/,1,0,0.42639768093983105
+Tuned Random Forest,https://verifier683858.click/,1,0,0.47287500858929427
+Tuned Random Forest,https://cedark.com/sup/,1,0,0.21284754010353718
+Tuned Random Forest,https://www.validacaodados.ru.com/,1,0,0.045988564281247216
+Tuned Random Forest,https://office365log.com/,1,0,0.3232569872252282
+Tuned Random Forest,https://max-vfp-shop.fourthwall.com:443/,1,0,0.4256185129878508
+Tuned Random Forest,https://dvdcanal.com/fr,1,0,0.4761792453351917
+Tuned Random Forest,https://coursier-ferie.com/,1,0,0.4851183421740593
+Tuned Random Forest,https://hoo.be/nlx,1,0,0.4605006415445065
+Tuned Random Forest,https://org-t.club/,1,0,0.03937110937869093
+Tuned Random Forest,https://www.konzept-bau.ch/kontakt/,1,0,0.18728191421363027
+Tuned Random Forest,http://mbh-b.click/,1,0,0.04074079715144414
+Tuned Random Forest,http://acessodigitalbia.sa.com,1,0,0.4827690795460832
+Tuned Random Forest,https://www.cardah.shop/jp/mem/index.jsp/#/,1,0,0.48126797257459275
+Tuned Random Forest,https://to.nifesnet.com/,1,0,0.048514300623328135
+Tuned Random Forest,https://aztecno.com.co/jul/,1,0,0.27091070418024626
+Tuned Random Forest,https://www.assistenza-q8.it/download.php?f=1,1,0,0.2678815280731656
+Tuned Random Forest,https://liveloresgatesdepontos.com/,1,0,0.4894411595631106
+Tuned Random Forest,https://istudioegypt.com/me/idd/,1,0,0.47995354260154915
+Tuned Random Forest,https://bancosgallcia.za.com/,1,0,0.40344596127529087
+Tuned Random Forest,https://hopp.bio/drsd,1,0,0.3184709703892632
+Tuned Random Forest,https://www.hopp.bio/drsd,1,0,0.006940981123523625
+Tuned Random Forest,https://vcasas.framer.ai/,1,0,0.20582113488663925
+Tuned Random Forest,https://asia.mcdbiz.com/,1,0,0.10255258462104024
+Tuned Random Forest,https://km.ywoum.cn/promote/,1,0,0.45721845734177113
+Tuned Random Forest,http://www.shoptiktok.today/,1,0,0.3095554292006997
+Tuned Random Forest,https://www.reactstudio.it/00/OTP_CheckPoint_process.php,1,0,0.4314099179952838
+Tuned Random Forest,https://www.reactstudio.it/00/mailprovider.php,1,0,0.39708858542049685
+Tuned Random Forest,http://iworksolutions.org/,1,0,0.1407525069387521
+Tuned Random Forest,https://conveyancingportal.com/,1,0,0.027343416670438096
+Tuned Random Forest,http://whatsappoivip.com/,1,0,0.029867666698612762
+Tuned Random Forest,http://telegrarvm.work/,1,0,0.09414320172069898
+Tuned Random Forest,http://upspostalstamp.com/,1,0,0.20297675993268852
+Tuned Random Forest,https://acgmw.com/,1,0,0.0019028714159578283
+Tuned Random Forest,http://ojntflue.live/,1,0,0.4134169211105542
+Tuned Random Forest,http://imt0ken-ya.life/,1,0,0.42795050530242157
+Tuned Random Forest,http://akqgbvsx.live/,1,0,0.2616888527717512
+Tuned Random Forest,http://ebeb666.shop/,1,0,0.4507181627681047
+Tuned Random Forest,http://univtgbot.my/,1,0,0.009768316145656234
+Tuned Random Forest,http://lqnqzk.world/,1,0,0.09227136463751273
+Tuned Random Forest,http://betnxigm.skin/,1,0,0.4134169211105542
+Tuned Random Forest,https://www.kerekesszekalkatresz.hu/Remanes//,1,0,0.3592048743616687
+Tuned Random Forest,https://syncsbase.pages.dev/,1,0,0.30245853233811804
+Tuned Random Forest,https://claro-pe.cam/,1,0,0.30733564633342775
+Tuned Random Forest,https://claroapp.icu/,1,0,0.16467577712308779
+Tuned Random Forest,https://frasaa.xyz/,1,0,0.0115008125290488
+Tuned Random Forest,https://fyxiesoe.cc/,1,0,0.01142755278589121
+Tuned Random Forest,https://movistar-es.ink/,1,0,0.4204538677650205
+Tuned Random Forest,https://silpostgv.one/,1,0,0.05044148301397142
+Tuned Random Forest,https://singport.ink/,1,0,0.28462817169005716
+Tuned Random Forest,https://telcelshop.club/,1,0,0.2598113922737225
+Tuned Random Forest,https://telcelshop.cn/,1,0,0.16714894987900683
+Tuned Random Forest,https://drgbox.com/login/login,1,0,0.4815079081064786
+Tuned Random Forest,https://fyxiesoe.cc/pe,1,0,0.4657298842460337
+Tuned Random Forest,https://dgte.cc/sp/,1,0,0.44710583507080054
+Tuned Random Forest,https://dgte.cc/sp,1,0,0.46940419375075115
+Tuned Random Forest,https://usi.tfdbvlz.xyz/,1,0,0.408172630633672
+Tuned Random Forest,https://claroapp.icu/pe/,1,0,0.4553564349641799
+Tuned Random Forest,https://jfkddktds.webflow.io/,1,0,0.38397339810138725
+Tuned Random Forest,https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx,0,1,0.5101525007448348
+Tuned Random Forest,https://corporatefinanceinstitute.com/,0,1,0.6369013582589089
+Tuned Random Forest,http://msofficesharedfiles.com/,1,0,0.22321895745240708
+Tuned Random Forest,https://metamaskrectify.com/,1,0,0.016382112550547407
+Tuned Random Forest,http://blnancceindex.com/,1,0,0.009561460267249263
+Tuned Random Forest,https://shangcheng.tiktokds.cn/,1,0,0.47226325716353323
+Tuned Random Forest,https://otwrm.com/,1,0,0.002936856777125512
+Tuned Random Forest,http://www.steagiftdigial.top/,1,0,0.16350773371679295
+Tuned Random Forest,https://download.cnet.com/,0,1,0.6422725161348047
+Tuned Random Forest,https://developer.apple.com/,0,1,0.6514582656548994
+Tuned Random Forest,https://company.wizards.com/en,0,1,0.6731685940498934
+Tuned Random Forest,https://healthy.kaiserpermanente.org/front-door,0,1,0.9542485026324119
+Tuned Random Forest,https://www.basketball-reference.com/,0,1,0.5849597742695448
+Tuned Random Forest,https://creditcards.chase.com/,0,1,0.5110248236345921
+Tuned Random Forest,https://bethesda.net/en,0,1,0.7760681123436022
+Tuned Random Forest,https://forum.hkgolden.com/channel/BW,0,1,0.7897107987238584
+Tuned Random Forest,https://www.national-lottery.co.uk/,0,1,0.5930608557786258
+Tuned Random Forest,https://notepad-plus-plus.org/,0,1,0.6573572564571402
+Tuned Random Forest,https://emedicine.medscape.com/,0,1,0.624549990746702
+Tuned Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0419251039520zXcjNPtZyyBgom9qRyRrg3tuEJxyCGyyvvf0cgnAgjLIhAxI4y4tiNUJBl-7Z7z3_5SbU3pUKZtqOPMtY8dPgto4wXdu83VQ0kSj4Hg1dSXDTuWekCTMrZS6J_dI8ouNCkBpar0L0tzb0gUg5ztIJBssBit5fYctH-zrxUByvmmQkarT1qkhHBsRGDxqFbQJUYsa3xN_kT3DKQ43hPcUdIJmSIWPcSRkhWSqdPULJcmO2x77GAAnDL6N0R9hMd6TRfOH7sqaH_zbJJzQ6kIgjCIEm9AM0whSavrtJ2eT1rz4lq51HGx5OwgY1UFYG3UK57k2CqhfSG-JsY3k6Zy-36kZiau73_gClhAC5bug73LEFWlyLJfNHjynGf8V_CkN,0,1,0.8611539737846358
+Tuned Random Forest,https://www.free-power-point-templates.com/,0,1,0.6401284904205579
+Tuned Random Forest,https://www.worldmarket.com/on/demandware.store/Sites-World_Market-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cud29ybGRtYXJrZXQuY29tL29uL2RlbWFuZHdhcmUuc3RvcmUvU2l0ZXMtV29ybGRfTWFya2V0LVNpdGU%3d&frame=1745077196613,0,1,0.7601760931029227
+Tuned Random Forest,https://moversguide.usps.com/mgo/,0,1,0.8532829101664047
+Tuned Random Forest,https://www.rakutengo.today/,1,0,0.015522931521479577
+Tuned Random Forest,https://app.mnuebay.top/,1,0,0.21754315126203136
+Tuned Random Forest,https://cn.wanbo44.bet/,1,0,0.3857661229364538
+Tuned Random Forest,http://zcp626.com/,1,0,0.17847498419407584
+Tuned Random Forest,http://ekaln.sbs/,1,0,0.013618032712513037
+Tuned Random Forest,http://coinbaseuserpage.com/,1,0,0.28149260478331556
+Tuned Random Forest,https://ainunfashion.info/,1,0,0.23477203719764675
+Tuned Random Forest,http://www.heartnhatrang.com/wp_include/,1,0,0.4254820898549122
+Tuned Random Forest,http://www.pb3652.cc/,1,0,0.27416716988770584
+Tuned Random Forest,http://yabofuli666.com/,1,0,0.3520371365682849
+Tuned Random Forest,https://ziraaaxtttkredddi.xyz/,1,0,0.07443072283196954
+Tuned Random Forest,https://taton.hk/inst/index.html,1,0,0.30896741646329023
+Tuned Random Forest,http://m.zowvins.cn/,1,0,0.42189842699582125
+Tuned Random Forest,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=3cfaa0e7-7391-11f0-b7a1-7b35080390a2&vid=,0,1,0.5445587449071769
+Tuned Random Forest,https://13dl.net/index.html,0,1,0.5868319833476626
+Tuned Random Forest,https://forbidden.lagou.com/forbidden/fb.html?ip=152.57.130.140,0,1,0.8322207473775413
+Tuned Random Forest,https://perfectdomain.com/domain/5dcar.com,0,1,0.752907321807044
+Tuned Random Forest,https://4porn.com/en/,0,1,0.5806403591246798
+Tuned Random Forest,https://perfectdomain.com/domain/ruporus.com,0,1,0.6209901991541213
+Tuned Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0807250829170gf-yby3g_5JWbfA1-sdX4tzGs6oxpJiQFJ9kC-F8pjhWsCdzXGc2OLCIe8y8qBNUCIBuY6F86ye2i7U6NIFckWT_r3VAHAAVT7dYOAZ__AakxU28QWkd0stoKEd2NQnC0xWzRJhzbwQ7SvFegbRp_6DijyUSCh4RU5sEiodC5dl_WXeRo8UzieJzOjrztKo8aKh1reOb2OLmh2V2QnXR3TlsmiUNdbACa1dICZK3MjdkQc43begt_Oa8Hu3EYdWuPl-qVxhcqFB6gPTPIjbZijwgU7ZOqmRXwACzSU2sGGMZRuO-h7FwgePlvp5qsxUOM3VqZhoLfnDYLMRwdfFUNSlBIxxiM8t3qc3OasMxWzQ20Vw2oQhOlrF-Q4gpLZmp,0,1,0.859944140257729
+Tuned Random Forest,https://longdo.com/main/,0,1,0.5387379422727276
+Tuned Random Forest,https://myself-bbs.com/portal.php,0,1,0.8697393002516605
+Tuned Random Forest,http://www.tinyurl.com/29j8mrtr/,1,0,0.49684936305145383
+Tuned Random Forest,https://www.tiktok687.com/,1,0,0.015931992674287507
+Tuned Random Forest,https://623te.cc/,1,0,0.08184514014579854
+Tuned Random Forest,http://kmwqa.cn/,1,0,0.0036610971907039
+Tuned Random Forest,http://trpeiprzak.com/,1,0,0.015284633960829293
+Tuned Random Forest,http://www.smvvatesa.com,1,0,0.47521947170364903
+Tuned Random Forest,https://9assest.io/,1,0,0.04701609562534941
+Tuned Random Forest,https://9assest.io/login.php,1,0,0.4861777921318813
+Tuned Random Forest,https://mobilpanelci.com/,1,0,0.03810583694916568
+Tuned Random Forest,https://cuenta-renueva.com/,1,0,0.2929410082808459
+Tuned Random Forest,https://ovodeoro.com/htaccess/,1,0,0.3893427111478195
+Tuned Random Forest,https://re-welfare.click/,1,0,0.37921011535311083
+Tuned Random Forest,https://re-subsidy.click/,1,0,0.3031004830038448
+Tuned Random Forest,https://colis-clients.com/,1,0,0.3313153337854301
+Tuned Random Forest,https://vinci-supportulys.com/,1,0,0.3602352313748174
+Tuned Random Forest,http://horalka.net,1,0,0.1846525001116106
+Tuned Random Forest,https://savnetfiixmxico.com/,1,0,0.02426382374784115
+Tuned Random Forest,https://www.google.hr/,1,0,0.0003553855835465878
+Tuned Random Forest,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=b768a17a-7850-11f0-9a33-9297daad0bf0&vid=,0,1,0.5464944785502277
+Tuned Random Forest,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0813250930590osLWDChF-h_nDJwTz8YIn8I_7FyWpatHRiwQFwQ9EwhuuUbvhUBs1G5to6weSdXu85RRKuWg63lAxr-1Tg0ep5Y2vGMG8WpPgPv2900P-Sw1E4MraPjGBBJLQW_ks1vf2PDan1yxFwvYOKrSOT_i-F8GIjqfM4HgRM3pNAvQN0v93Gyw6n3JC98q4eyRsOQQhSim7N8TyGTprouSxrGuFu7lWRNp0NlSJwyylLfhoeXRf6em0uuX4UANhZwaZSVCrVEFKTTR4rHJQ0_5_XFQ5bqKmTZgYCkGPcaaJHrUe6S67GgtenZGQD8GjadvRY5FOKeNpFia-cXTnZlD2f5nL4N1hsyUuhOvKCn_w-35l_26D3dci4pH_v-Gn7MX4KKj,0,1,0.8530722858248991
+Tuned Random Forest,https://ontonet.org/avrora,0,1,0.5813758209737249
+Tuned Random Forest,https://strategicmanagementinsight.com/,0,1,0.6269889981979058
+Tuned Random Forest,https://partner.expediagroup.com/en-us,0,1,0.9914650463118458
+Tuned Random Forest,https://perfectdomain.com/domain/legacyclix.com,0,1,0.6777210344748794
+Tuned Random Forest,https://custom.gettyimages.com/imagenet/p/1,0,1,0.8976830706609147
+Tuned Random Forest,http://cmitelevision.com.co/,0,1,0.5608321244467126
+Tuned Random Forest,https://welcome.saddleback.com/,0,1,0.5310255603417078
+Tuned Random Forest,https://wuhu.world.tmall.com/shop/view_shop.htm,0,1,0.6575503395347975
+Tuned Random Forest,https://le-blog-sam-la-touch.over-blog.com/,0,1,0.8485925527424256
+Tuned Random Forest,https://userportal.pqs.pearsonprd.tech/redirect?UserPortalReturnUrl=https://edexcelonline.pearson.com/Account/Login.aspx,0,1,0.860646744531762
+Tuned Random Forest,https://password-online.com/,0,1,0.7046653439523302
+Tuned Random Forest,https://documenta.de/de,0,1,0.7125632984443301
+Tuned Random Forest,https://transportnsw.info/regional-travel,0,1,0.6462371683045032
+Tuned Random Forest,https://crocs.world.tmall.com/shop/view_shop.htm,0,1,0.7042837885432705
+Tuned Random Forest,https://tor-browser.ru/,0,1,0.6120061550373544
+Tuned Random Forest,https://cnews.com.tw/RUNCLOUD-7G-WAF-BLOCKED,0,1,0.7997761242586776
+Tuned Random Forest,https://edu.glavsprav.ru/spb/,0,1,0.5298434102971779
+Tuned Random Forest,https://converse.world.tmall.com/shop/view_shop.htm,0,1,0.840994857431365
+Tuned Random Forest,https://instiressources.blogspot.com/,0,1,0.8315801265119389
+Tuned Random Forest,https://www.ketogenic-diet-resource.com/,0,1,0.7568894599013454
+Tuned Random Forest,https://www.sparkasse-vogtland.de/de/home.html,0,1,0.533380511603508
+Tuned Random Forest,https://inloggen.parnassys.net/idp/,0,1,0.8846198565733258
+Tuned Random Forest,http://ww1.granny-videos.com,0,1,0.7699300411479326
+Tuned Random Forest,https://perfectdomain.com/domain/testpot.com,0,1,0.6207738545599198
+Tuned Random Forest,https://pullman.accor.com/gb/asia/index.shtml,0,1,0.8809006563286771
+Tuned Random Forest,https://forma-odezhda.com/,0,1,0.5580192436910744
+Tuned Random Forest,https://kycvintage.bigcartel.com/,0,1,0.9686384345134612
+Tuned Random Forest,http://usbgabc.com/home/user/login/,0,1,0.6187251015212694
+Tuned Random Forest,https://dd.zcrlx.com/download/284_0.html,0,1,0.7320156194317823
+Tuned Random Forest,https://amit.ru/evroremont/home/,0,1,0.5772240992972703
+Tuned Random Forest,https://intifada1453.org/,0,1,0.5412854470345757
+Tuned Random Forest,https://e-noticies.cat/,0,1,0.6568316844347719
+Tuned Random Forest,https://money-news-online.com/,0,1,0.7178297755883963
+Tuned Random Forest,https://zarabotat-na-sajte.ru/,0,1,0.7010639831197326
+Tuned Random Forest,https://spotify.okta.com/app/spotifyprod_spotifynet_1/exk6vfwgijPqP7VZg1t7/sso/saml?SAMLRequest=hZJBT8JAEIX%2FSrN32LYGsBsgKRQSEjUElYMXsqmDrra7dWcK%2BO%2BdFjEYjZ52MzMv876XGaIui0qlNT3bFbzVgBQcysKiahsjUXurnEaDyuoSUFGubtPrKxV3Q1V5Ry53hTiT%2FK3QiODJOCuCRTYSm%2Fk0nCVR0o%2BzOJ6F8WV%2FMJ1fpJPJLE0Gk2yWiGANHnl%2BJFjOIsQaFhZJW%2BJSGPc64WUnuriLeipMVC9%2BEEHGDMZqalXPRBUqKbFyZLbvXfdKupu7UuqqOhUZ43Hz%2BbdAm0jC4bW%2F2%2B6fzMvybTlYPzxFNJCITjaEIpg6i9AY%2BAs1Pw6pvPae344pq8LkhkQwdz6HNvGR2OoCoeFacjRmB1%2BV9JRUs6wuwd%2BC35kc7ldXP6nYtSyhKJyVlUNaATd4uxgPG8OqTc2Pf1MN5fnE8HgNNwyzyJaO%2Fb43bkv9D2tTMY%2BdbTuqyGuLhpmZgj3tpx40MRn5GoQcH1d%2Bv7nxBw%3D%3D&RelayState=https%3A%2F%2Fspotify.net%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=s8JfDrIhg1LrSjElOvYS58ObQjL%2Bo1Y1kAM512RUpKBI%2F8HXXaXSiQZH1Lghi7SwE9DPwrtDdwGtveHNIMcdKW4KobwSAyElZQOPmTu2SEkKzs1VWeZXfGllHGE33bhvSEiPtCxiK%2F1%2Fof9EE6llYf%2BnqCy%2FC6oO3UC3h1gcVSMfVMiXd7nbkNq%2FaML%2Fwa%2FeG6W%2BFd64jgbZ0AEPkZmSM%2F092pYNYo%2BbpQ%2Bq9trXXxlzOOy4TkLb8c5iZHguWlLScNtw2u2Iq81QwvRevrFrokvXTbMA8Psf0hh5uj2SM95NCGJ%2FwxEQwsfjXC0CsjMOq3beLx5IPMHgeXxYZXmZXA%3D%3D,0,1,0.5910002212267017
+Tuned Random Forest,https://wof.fish/forum/index.php/topic/4370-skachat-rybalku/,0,1,0.9145846977943741
+Tuned Random Forest,http://amazonzjv.co/,1,0,0.009768316145656234
+Tuned Random Forest,https://keensalmon.org/en-ca/wallet,1,0,0.48422927375104735
+Tuned Random Forest,https://keensalmon.org/en-ca/prime,1,0,0.4364467026414624
+Tuned Random Forest,https://keensalmon.org/en-ca/blog,1,0,0.43383140332022146
+Tuned XGBoost,https://slack.com/intl/en-in/,0,1,0.6218238472938538
+Tuned XGBoost,http://www.babytree.com/baby202208_index/,0,1,0.7849764227867126
+Tuned XGBoost,https://mediasetinfinity.mediaset.it/,0,1,0.8257516026496887
+Tuned XGBoost,https://habr.com/en/feed/,0,1,0.5463540554046631
+Tuned XGBoost,https://err.tmall.com/error1.html?c=404&u=https%3A%2F%2F3c.tmall.com%2F,0,1,0.5722984075546265
+Tuned XGBoost,https://pages.tmall.com/wow/a/act/tmall/dailygroup/1446/wupr?wh_pid=daily-256039,0,1,0.9020376205444336
+Tuned XGBoost,https://pages.tmall.com/wow/a/act/tmall/dailygroup/18/wupr?wh_pid=daily-268514,0,1,0.869022011756897
+Tuned XGBoost,https://uniqlo.world.tmall.com/,0,1,0.9577974081039429
+Tuned XGBoost,https://wargaming.net/en,0,1,0.5375677943229675
+Tuned XGBoost,https://watsons.world.tmall.com/shop/view_shop.htm,0,1,0.8388091325759888
+Tuned XGBoost,https://crm.broker.xxx/domain.php?q=r18.com,0,1,0.8838401436805725
+Tuned XGBoost,https://all-free-download.com/,0,1,0.8582778573036194
+Tuned XGBoost,https://moscow.megafon.ru/,0,1,0.7163905501365662
+Tuned XGBoost,http://slither.io/?a,0,1,0.8056861758232117
+Tuned XGBoost,https://ex.24smi.info/top/,0,1,0.84367835521698
+Tuned XGBoost,https://nvxie.tmall.com/,0,1,0.5313084721565247
+Tuned XGBoost,https://nvzhuang.tmall.com/,0,1,0.6192247867584229
+Tuned XGBoost,https://samsonite.world.tmall.com/shop/view_shop.htm,0,1,0.8949496150016785
+Tuned XGBoost,https://hyxyr.world.tmall.com/shop/view_shop.htm,0,1,0.7003381848335266
+Tuned XGBoost,https://kohsantepheapdaily.com.kh/,0,1,0.5179340243339539
+Tuned XGBoost,https://gainreel.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.9207602143287659
+Tuned XGBoost,https://azams.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.7719427943229675
+Tuned XGBoost,https://pierrecardinxb.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.9055532813072205
+Tuned XGBoost,https://qiannaimei.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8629366755485535
+Tuned XGBoost,https://eastpak.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.8415114879608154
+Tuned XGBoost,https://maniform.world.tmall.com/shop/view_shop.htm?tbpm=1,0,1,0.909576952457428
+Tuned XGBoost,https://calvinklein.world.tmall.com/shop/view_shop.htm,0,1,0.9473500847816467
+Tuned XGBoost,https://binnitu.world.tmall.com/shop/view_shop.htm,0,1,0.90113365650177
+Tuned XGBoost,http://rus.porn/categories/,0,1,0.7609810829162598
+Tuned XGBoost,https://feba.bobibanking.com/default.htm,0,1,0.9191517233848572
+Tuned XGBoost,https://habr.com/en/flows/popsci/articles/,0,1,0.7340198755264282
+Tuned XGBoost,https://megogo.net/en,0,1,0.6541715264320374
+Tuned XGBoost,https://club.kdslife.com/new/home,0,1,0.6276559233665466
+Tuned XGBoost,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=12b38b2e-6a02-11f0-9c83-549a60f71e66&vid=,0,1,0.7183813452720642
+Tuned XGBoost,http://www.10010.com/wt_service_web/index.html,0,1,0.8204076886177063
+Tuned XGBoost,https://app.screencast.com/,0,1,0.876244843006134
+Tuned XGBoost,https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki,0,1,0.9677104949951172
+Tuned XGBoost,https://www.yes24.com/Main/default.aspx,0,1,0.527427077293396
+Tuned XGBoost,https://greasyfork.org/en,0,1,0.6948918104171753
+Tuned XGBoost,https://mediametrics.ru/rating/ru/online.html,0,1,0.8775407075881958
+Tuned XGBoost,https://optifine.net/home,0,1,0.7860444188117981
+Tuned XGBoost,https://mafia.game168.com.tw,0,1,0.9227070212364197
+Tuned XGBoost,https://plaync.com/en-us/index,0,1,0.5731090307235718
+Tuned XGBoost,http://italia-film.gratis/,0,1,0.6761487722396851
+Tuned XGBoost,https://pornchatting.com/men/tags/hd+,0,1,0.7008683681488037
+Tuned XGBoost,https://hapitas.jp/register,0,1,0.7028663158416748
+Tuned XGBoost,https://accounts.freemail.hu/a/login,0,1,0.9282462000846863
+Tuned XGBoost,https://www.lumen.com/en-us/about/legal.html.html,0,1,0.6590951085090637
+Tuned XGBoost,https://www.berliner-sparkasse.de/de/home.html,0,1,0.541534423828125
+Tuned XGBoost,http://hetlerbazar.wapka.me/,0,1,0.7594144940376282
+Tuned XGBoost,https://scholarship-positions.com/,0,1,0.7941546440124512
+Tuned XGBoost,https://login.planningcenteronline.com/login/new?return=Services%2Fdashboard,0,1,0.8819916248321533
+Tuned XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0726250516010es0OEJYtogTDj_mFMMxIMcYF0TLkQ8KXYnuz9y2ESKxki0HLy1D4DIi-VN9S6E697uLLyhA3PcU1CQAmhFYTdfIi-DkOY9CQKBV84Q0LdgWVCx7Z3XHDf3Nqu9WJb9TbhShxhGz2IQzrkXOXAcWUPOj2eRn1JS9riDfoStLizbNWopUPCLUANNdtjanI49LmvKnmo2bhMzUWMmLXNJHw6juntySgEtzqy_vJVdXSGDnl3_B1BbQ4863GwVUoBSMjRnlEtMy_eSyYdMBczYW7CKTbtk4apAhBI3EaAPrlUH6fuP2IaNESiGpRbVByw5XfnVclL_EgUOIka8I-SSQsEcLXdmwOvlVt3ToJ3TQagrlxsp0UaJsUGzA7QviJhDxB,0,1,0.865584135055542
+Tuned XGBoost,https://imlive.com/webcam-girls/,0,1,0.7810360789299011
+Tuned XGBoost,http://mesmask.org/,1,0,0.05625975877046585
+Tuned XGBoost,https://imtoqen.im/,1,0,0.03355611115694046
+Tuned XGBoost,https://ebay.hjd-vd.top/,1,0,0.4720616936683655
+Tuned XGBoost,https://ccav.opera.red/,1,0,0.21139194071292877
+Tuned XGBoost,https://whadipsap.vavsakk.com/,1,0,0.45736128091812134
+Tuned XGBoost,https://www.simmonsllns.vercel.app/,1,0,0.4542770981788635
+Tuned XGBoost,https://ledgerapp.vip/,1,0,0.06723127514123917
+Tuned XGBoost,https://www.iadeceptee.duckdns.org/,1,0,0.21159447729587555
+Tuned XGBoost,https://magaluo.gsggs.com/,1,0,0.4162546992301941
+Tuned XGBoost,https://verifier683858.click/,1,0,0.19222337007522583
+Tuned XGBoost,https://cedark.com/sup/,1,0,0.3853106200695038
+Tuned XGBoost,https://www.validacaodados.ru.com/,1,0,0.022358806803822517
+Tuned XGBoost,https://office365log.com/,1,0,0.14236575365066528
+Tuned XGBoost,https://max-vfp-shop.fourthwall.com:443/,1,0,0.17953212559223175
+Tuned XGBoost,https://dvdcanal.com/fr,1,0,0.310346782207489
+Tuned XGBoost,https://btservices.univer.se/,1,0,0.3675133287906647
+Tuned XGBoost,https://hoo.be/nlx,1,0,0.3759973645210266
+Tuned XGBoost,https://org-t.club/,1,0,0.047386325895786285
+Tuned XGBoost,https://www.konzept-bau.ch/kontakt/,1,0,0.05417013540863991
+Tuned XGBoost,http://mbh-b.click/,1,0,0.1251937747001648
+Tuned XGBoost,http://acessodigitalbia.sa.com,1,0,0.4914657175540924
+Tuned XGBoost,https://www.bing.com/ck/a?!&amp;amp;&amp;amp;p=611067cf84dc2e7c3cb65912068deb6be27a3fda61dec2fd731453e2cfc4b98fJmltdHM9MTc1MjcxMDQwMA&amp;amp;ptn=3&amp;amp;ver=2&amp;amp;hsh=4&amp;amp;fclid=072c8f02-4f82-6e57-0094-99274edf6fe4&amp;amp;psq=https%3a%2f%2fwww.konzept-bau.ch%2f&amp;amp;u=a1aHR0cHM6Ly93d3cua29uemVwdC1iYXUuY2gva29udGFrdC8&amp;amp;ntb=1,1,0,0.45916086435317993
+Tuned XGBoost,https://to.nifesnet.com/,1,0,0.1653691828250885
+Tuned XGBoost,https://aztecno.com.co/jul/,1,0,0.2981286346912384
+Tuned XGBoost,https://www.assistenza-q8.it/download.php?f=1,1,0,0.08818931877613068
+Tuned XGBoost,https://bancosgallcia.za.com/,1,0,0.2581122815608978
+Tuned XGBoost,https://www.hopp.bio/drsd,1,0,0.004967517219483852
+Tuned XGBoost,https://vcasas.framer.ai/,1,0,0.23540060222148895
+Tuned XGBoost,https://asia.mcdbiz.com/,1,0,0.23864106833934784
+Tuned XGBoost,http://www.shoptiktok.today/,1,0,0.44708436727523804
+Tuned XGBoost,https://www.reactstudio.it/00/OTP_CheckPoint_process.php,1,0,0.05122699961066246
+Tuned XGBoost,https://www.reactstudio.it/00/OTP_CheckPoint_process_confirmation.php,1,0,0.13557834923267365
+Tuned XGBoost,https://www.reactstudio.it/00/mailprovider.php,1,0,0.21127180755138397
+Tuned XGBoost,http://iworksolutions.org/,1,0,0.25518080592155457
+Tuned XGBoost,https://conveyancingportal.com/,1,0,0.10009129345417023
+Tuned XGBoost,http://whatsappoivip.com/,1,0,0.051394153386354446
+Tuned XGBoost,http://telegrarvm.work/,1,0,0.14084503054618835
+Tuned XGBoost,http://upspostalstamp.com/,1,0,0.21294455230236053
+Tuned XGBoost,https://acgmw.com/,1,0,0.009573445655405521
+Tuned XGBoost,http://ojntflue.live/,1,0,0.21946318447589874
+Tuned XGBoost,https://p.infoupdatexdg.top/l/,1,0,0.48491349816322327
+Tuned XGBoost,https://www.stjozefasoessen.be/wp-content/themes/twentytwentyfour/templates/archive/step2.php,1,0,0.40438804030418396
+Tuned XGBoost,http://imt0ken-ya.life/,1,0,0.34366393089294434
+Tuned XGBoost,http://akqgbvsx.live/,1,0,0.17318834364414215
+Tuned XGBoost,https://savoy.thepiratbay.info/48-707-221124/?u=105C707&e=irys32adres%40op.pl&s3=Jadwiga&s4=Grubska,1,0,0.2503178119659424
+Tuned XGBoost,http://univtgbot.my/,1,0,0.04487228766083717
+Tuned XGBoost,http://lqnqzk.world/,1,0,0.08177598565816879
+Tuned XGBoost,http://betnxigm.skin/,1,0,0.21946318447589874
+Tuned XGBoost,https://www.kerekesszekalkatresz.hu/Remanes//,1,0,0.3679109513759613
+Tuned XGBoost,https://syncsbase.pages.dev/,1,0,0.34012967348098755
+Tuned XGBoost,https://claro-pe.cam/,1,0,0.2510402202606201
+Tuned XGBoost,https://claroapp.icu/,1,0,0.09597233682870865
+Tuned XGBoost,https://frasaa.xyz/,1,0,0.035935260355472565
+Tuned XGBoost,https://fyxiesoe.cc/,1,0,0.03488350287079811
+Tuned XGBoost,https://movistar-es.ink/,1,0,0.3715181350708008
+Tuned XGBoost,https://poeist.top/,1,0,0.2392340451478958
+Tuned XGBoost,https://pogsthe.top/,1,0,0.2534131705760956
+Tuned XGBoost,https://silpostgv.one/,1,0,0.05769836902618408
+Tuned XGBoost,https://singport.ink/,1,0,0.17046219110488892
+Tuned XGBoost,https://telcelshop.club/,1,0,0.08423316478729248
+Tuned XGBoost,https://telcelshop.cn/,1,0,0.19563187658786774
+Tuned XGBoost,https://drgbox.com/login/login,1,0,0.42730242013931274
+Tuned XGBoost,https://fyxiesoe.cc/pe,1,0,0.3986523747444153
+Tuned XGBoost,https://dgte.cc/sp/,1,0,0.2643742561340332
+Tuned XGBoost,https://dgte.cc/sp,1,0,0.42900627851486206
+Tuned XGBoost,https://uszi.pzmowclu.top/,1,0,0.43266674876213074
+Tuned XGBoost,https://usi.tfdbvlz.xyz/,1,0,0.314744770526886
+Tuned XGBoost,https://claroapp.icu/pe/,1,0,0.4295205771923065
+Tuned XGBoost,https://jfkddktds.webflow.io/,1,0,0.4771677851676941
+Tuned XGBoost,https://corporatefinanceinstitute.com/,0,1,0.7211887836456299
+Tuned XGBoost,http://msofficesharedfiles.com/,1,0,0.26150068640708923
+Tuned XGBoost,https://metamaskrectify.com/,1,0,0.06837540119886398
+Tuned XGBoost,https://sevreh59.pages.dev/privacyprefs?ref_=footer_iba,1,0,0.31168118119239807
+Tuned XGBoost,http://blnancceindex.com/,1,0,0.049281004816293716
+Tuned XGBoost,https://otwrm.com/,1,0,0.011358564719557762
+Tuned XGBoost,http://www.steagiftdigial.top/,1,0,0.16410423815250397
+Tuned XGBoost,https://nps.gov/index.htm,0,1,0.7547173500061035
+Tuned XGBoost,https://developer.apple.com/,0,1,0.8437190055847168
+Tuned XGBoost,https://company.wizards.com/en,0,1,0.7941411137580872
+Tuned XGBoost,https://healthy.kaiserpermanente.org/front-door,0,1,0.9491373896598816
+Tuned XGBoost,https://www.basketball-reference.com/,0,1,0.6262881755828857
+Tuned XGBoost,https://bethesda.net/en,0,1,0.80438631772995
+Tuned XGBoost,https://play.runescape.com,0,1,0.6117148995399475
+Tuned XGBoost,https://all.accor.com/a/en.html,0,1,0.5108165144920349
+Tuned XGBoost,https://forum.hkgolden.com/channel/BW,0,1,0.9469831585884094
+Tuned XGBoost,https://www.national-lottery.co.uk/,0,1,0.8404396772384644
+Tuned XGBoost,https://notepad-plus-plus.org/,0,1,0.7472261786460876
+Tuned XGBoost,https://emedicine.medscape.com/,0,1,0.5692983865737915
+Tuned XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0419251039520zXcjNPtZyyBgom9qRyRrg3tuEJxyCGyyvvf0cgnAgjLIhAxI4y4tiNUJBl-7Z7z3_5SbU3pUKZtqOPMtY8dPgto4wXdu83VQ0kSj4Hg1dSXDTuWekCTMrZS6J_dI8ouNCkBpar0L0tzb0gUg5ztIJBssBit5fYctH-zrxUByvmmQkarT1qkhHBsRGDxqFbQJUYsa3xN_kT3DKQ43hPcUdIJmSIWPcSRkhWSqdPULJcmO2x77GAAnDL6N0R9hMd6TRfOH7sqaH_zbJJzQ6kIgjCIEm9AM0whSavrtJ2eT1rz4lq51HGx5OwgY1UFYG3UK57k2CqhfSG-JsY3k6Zy-36kZiau73_gClhAC5bug73LEFWlyLJfNHjynGf8V_CkN,0,1,0.8375821709632874
+Tuned XGBoost,https://www.free-power-point-templates.com/,0,1,0.6153662800788879
+Tuned XGBoost,https://www.worldmarket.com/on/demandware.store/Sites-World_Market-Site/en_US/PX-Show?url=aHR0cHM6Ly93d3cud29ybGRtYXJrZXQuY29tL29uL2RlbWFuZHdhcmUuc3RvcmUvU2l0ZXMtV29ybGRfTWFya2V0LVNpdGU%3d&frame=1745077196613,0,1,0.7975244522094727
+Tuned XGBoost,https://moversguide.usps.com/mgo/,0,1,0.8010819554328918
+Tuned XGBoost,http://findyourphone.org/?i=uA98t,1,0,0.4012199640274048
+Tuned XGBoost,https://www.rakutengo.today/,1,0,0.004490705672651529
+Tuned XGBoost,https://app.mnuebay.top/,1,0,0.1598539501428604
+Tuned XGBoost,https://cn.wanbo44.bet/,1,0,0.3201753497123718
+Tuned XGBoost,http://zcp626.com/,1,0,0.11458036303520203
+Tuned XGBoost,http://yaboxxx909.com/,1,0,0.49866756796836853
+Tuned XGBoost,https://bill.fast-shipping.it/?rid=KoipdGV,1,0,0.4312589764595032
+Tuned XGBoost,http://ekaln.sbs/,1,0,0.0214407779276371
+Tuned XGBoost,http://coinbaseuserpage.com/,1,0,0.22074539959430695
+Tuned XGBoost,https://ainunfashion.info/,1,0,0.1814313530921936
+Tuned XGBoost,http://www.heartnhatrang.com/wp_include/,1,0,0.3591073453426361
+Tuned XGBoost,http://www.pb3652.cc/,1,0,0.24813151359558105
+Tuned XGBoost,http://yabofuli666.com/,1,0,0.18665950000286102
+Tuned XGBoost,https://ziraaaxtttkredddi.xyz/,1,0,0.08686459809541702
+Tuned XGBoost,https://taton.hk/inst/index.html,1,0,0.32955121994018555
+Tuned XGBoost,http://m.zowvins.cn/,1,0,0.11550229042768478
+Tuned XGBoost,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=3cfaa0e7-7391-11f0-b7a1-7b35080390a2&vid=,0,1,0.6942903399467468
+Tuned XGBoost,https://13dl.net/index.html,0,1,0.8376120924949646
+Tuned XGBoost,https://forbidden.lagou.com/forbidden/fb.html?ip=152.57.130.140,0,1,0.9524388313293457
+Tuned XGBoost,https://perfectdomain.com/domain/5dcar.com,0,1,0.8562809824943542
+Tuned XGBoost,https://perfectdomain.com/domain/ruporus.com,0,1,0.6327768564224243
+Tuned XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0807250829170gf-yby3g_5JWbfA1-sdX4tzGs6oxpJiQFJ9kC-F8pjhWsCdzXGc2OLCIe8y8qBNUCIBuY6F86ye2i7U6NIFckWT_r3VAHAAVT7dYOAZ__AakxU28QWkd0stoKEd2NQnC0xWzRJhzbwQ7SvFegbRp_6DijyUSCh4RU5sEiodC5dl_WXeRo8UzieJzOjrztKo8aKh1reOb2OLmh2V2QnXR3TlsmiUNdbACa1dICZK3MjdkQc43begt_Oa8Hu3EYdWuPl-qVxhcqFB6gPTPIjbZijwgU7ZOqmRXwACzSU2sGGMZRuO-h7FwgePlvp5qsxUOM3VqZhoLfnDYLMRwdfFUNSlBIxxiM8t3qc3OasMxWzQ20Vw2oQhOlrF-Q4gpLZmp,0,1,0.8355966806411743
+Tuned XGBoost,https://longdo.com/main/,0,1,0.5271128416061401
+Tuned XGBoost,https://myself-bbs.com/portal.php,0,1,0.8695447444915771
+Tuned XGBoost,https://skyera-hk.com/,1,0,0.29904547333717346
+Tuned XGBoost,https://www.tiktok687.com/,1,0,0.01306032482534647
+Tuned XGBoost,http://pmpack.com.ua/,1,0,0.3577714264392853
+Tuned XGBoost,https://623te.cc/,1,0,0.02491178549826145
+Tuned XGBoost,https://www.sorrireviver.org.br/web1-cgn/webmail_login.php,1,0,0.2409302443265915
+Tuned XGBoost,http://kmwqa.cn/,1,0,0.014396862126886845
+Tuned XGBoost,http://trpeiprzak.com/,1,0,0.04725220426917076
+Tuned XGBoost,http://www.smvvatesa.com,1,0,0.474325954914093
+Tuned XGBoost,https://9assest.io/,1,0,0.05331141874194145
+Tuned XGBoost,https://9assest.io/login.php,1,0,0.4020431637763977
+Tuned XGBoost,https://www.okde.hu/wp-admin/desk/GlobalSources/?email=3mail@b.c,1,0,0.44029510021209717
+Tuned XGBoost,https://mobilpanelci.com/,1,0,0.07889975607395172
+Tuned XGBoost,https://arrowsone.com/components/com_jce/editor/libraries/views/popups/tmpl/,1,0,0.49024948477745056
+Tuned XGBoost,https://ovodeoro.com/htaccess/,1,0,0.36424514651298523
+Tuned XGBoost,https://re-welfare.click/,1,0,0.31796079874038696
+Tuned XGBoost,https://re-subsidy.click/,1,0,0.273689329624176
+Tuned XGBoost,https://colis-clients.com/,1,0,0.4125826954841614
+Tuned XGBoost,http://horalka.net,1,0,0.19231276214122772
+Tuned XGBoost,https://savnetfiixmxico.com/,1,0,0.05510462448000908
+Tuned XGBoost,https://tinyurl.com/dftyuioZSS,1,0,0.35486912727355957
+Tuned XGBoost,https://www.google.hr/,1,0,0.0016324043972417712
+Tuned XGBoost,https://ru.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=b768a17a-7850-11f0-9a33-9297daad0bf0&vid=,0,1,0.6999111175537109
+Tuned XGBoost,https://italia-film.gratis/,0,1,0.6606090664863586
+Tuned XGBoost,https://signon.thomsonreuters.com?productid=CBT&lr=0&culture=en-US&returnto=https%3a%2f%2f1.next.westlaw.com%2fCosi%2fSignOn&tracetoken=0813250930590osLWDChF-h_nDJwTz8YIn8I_7FyWpatHRiwQFwQ9EwhuuUbvhUBs1G5to6weSdXu85RRKuWg63lAxr-1Tg0ep5Y2vGMG8WpPgPv2900P-Sw1E4MraPjGBBJLQW_ks1vf2PDan1yxFwvYOKrSOT_i-F8GIjqfM4HgRM3pNAvQN0v93Gyw6n3JC98q4eyRsOQQhSim7N8TyGTprouSxrGuFu7lWRNp0NlSJwyylLfhoeXRf6em0uuX4UANhZwaZSVCrVEFKTTR4rHJQ0_5_XFQ5bqKmTZgYCkGPcaaJHrUe6S67GgtenZGQD8GjadvRY5FOKeNpFia-cXTnZlD2f5nL4N1hsyUuhOvKCn_w-35l_26D3dci4pH_v-Gn7MX4KKj,0,1,0.8224843144416809
+Tuned XGBoost,https://ontonet.org/avrora,0,1,0.6893620491027832
+Tuned XGBoost,https://strategicmanagementinsight.com/,0,1,0.6830371618270874
+Tuned XGBoost,https://partner.expediagroup.com/en-us,0,1,0.9662011861801147
+Tuned XGBoost,https://perfectdomain.com/domain/legacyclix.com,0,1,0.5205387473106384
+Tuned XGBoost,https://custom.gettyimages.com/imagenet/p/1,0,1,0.9723092913627625
+Tuned XGBoost,http://cmitelevision.com.co/,0,1,0.5541872382164001
+Tuned XGBoost,https://welcome.saddleback.com/,0,1,0.7730749249458313
+Tuned XGBoost,https://reklama-crimea.com/,0,1,0.5332434177398682
+Tuned XGBoost,https://wuhu.world.tmall.com/shop/view_shop.htm,0,1,0.6148993968963623
+Tuned XGBoost,https://le-blog-sam-la-touch.over-blog.com/,0,1,0.9973301887512207
+Tuned XGBoost,https://userportal.pqs.pearsonprd.tech/redirect?UserPortalReturnUrl=https://edexcelonline.pearson.com/Account/Login.aspx,0,1,0.9846499562263489
+Tuned XGBoost,https://password-online.com/,0,1,0.6107488870620728
+Tuned XGBoost,https://avcom.co.za/phpBB3/,0,1,0.5465116500854492
+Tuned XGBoost,https://transportnsw.info/regional-travel,0,1,0.7282455563545227
+Tuned XGBoost,https://crocs.world.tmall.com/shop/view_shop.htm,0,1,0.7722429633140564
+Tuned XGBoost,https://cnews.com.tw/RUNCLOUD-7G-WAF-BLOCKED,0,1,0.935243546962738
+Tuned XGBoost,https://converse.world.tmall.com/shop/view_shop.htm,0,1,0.86189866065979
+Tuned XGBoost,https://instiressources.blogspot.com/,0,1,0.8688247203826904
+Tuned XGBoost,https://www.ketogenic-diet-resource.com/,0,1,0.8037716746330261
+Tuned XGBoost,http://www.cn3x.com.cn/index.html,0,1,0.5492196083068848
+Tuned XGBoost,https://inloggen.parnassys.net/idp/,0,1,0.8891700506210327
+Tuned XGBoost,https://bckv.edu.in/index.php/en/,0,1,0.5548733472824097
+Tuned XGBoost,http://ww1.granny-videos.com,0,1,0.9250184893608093
+Tuned XGBoost,https://perfectdomain.com/domain/testpot.com,0,1,0.6017546653747559
+Tuned XGBoost,https://pullman.accor.com/gb/asia/index.shtml,0,1,0.9714934825897217
+Tuned XGBoost,https://kycvintage.bigcartel.com/,0,1,0.9332963824272156
+Tuned XGBoost,http://usbgabc.com/home/user/login/,0,1,0.6502056121826172
+Tuned XGBoost,https://dd.zcrlx.com/download/284_0.html,0,1,0.9274449348449707
+Tuned XGBoost,https://amit.ru/evroremont/home/,0,1,0.6788061857223511
+Tuned XGBoost,https://money-news-online.com/,0,1,0.8612385392189026
+Tuned XGBoost,https://zarabotat-na-sajte.ru/,0,1,0.7096586227416992
+Tuned XGBoost,https://spotify.okta.com/app/spotifyprod_spotifynet_1/exk6vfwgijPqP7VZg1t7/sso/saml?SAMLRequest=hZJBT8JAEIX%2FSrN32LYGsBsgKRQSEjUElYMXsqmDrra7dWcK%2BO%2BdFjEYjZ52MzMv876XGaIui0qlNT3bFbzVgBQcysKiahsjUXurnEaDyuoSUFGubtPrKxV3Q1V5Ry53hTiT%2FK3QiODJOCuCRTYSm%2Fk0nCVR0o%2BzOJ6F8WV%2FMJ1fpJPJLE0Gk2yWiGANHnl%2BJFjOIsQaFhZJW%2BJSGPc64WUnuriLeipMVC9%2BEEHGDMZqalXPRBUqKbFyZLbvXfdKupu7UuqqOhUZ43Hz%2BbdAm0jC4bW%2F2%2B6fzMvybTlYPzxFNJCITjaEIpg6i9AY%2BAs1Pw6pvPae344pq8LkhkQwdz6HNvGR2OoCoeFacjRmB1%2BV9JRUs6wuwd%2BC35kc7ldXP6nYtSyhKJyVlUNaATd4uxgPG8OqTc2Pf1MN5fnE8HgNNwyzyJaO%2Fb43bkv9D2tTMY%2BdbTuqyGuLhpmZgj3tpx40MRn5GoQcH1d%2Bv7nxBw%3D%3D&RelayState=https%3A%2F%2Fspotify.net%2F&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=s8JfDrIhg1LrSjElOvYS58ObQjL%2Bo1Y1kAM512RUpKBI%2F8HXXaXSiQZH1Lghi7SwE9DPwrtDdwGtveHNIMcdKW4KobwSAyElZQOPmTu2SEkKzs1VWeZXfGllHGE33bhvSEiPtCxiK%2F1%2Fof9EE6llYf%2BnqCy%2FC6oO3UC3h1gcVSMfVMiXd7nbkNq%2FaML%2Fwa%2FeG6W%2BFd64jgbZ0AEPkZmSM%2F092pYNYo%2BbpQ%2Bq9trXXxlzOOy4TkLb8c5iZHguWlLScNtw2u2Iq81QwvRevrFrokvXTbMA8Psf0hh5uj2SM95NCGJ%2FwxEQwsfjXC0CsjMOq3beLx5IPMHgeXxYZXmZXA%3D%3D,0,1,0.5974838733673096
+Tuned XGBoost,http://www.standaloneofflineinstallers.com/,0,1,0.5446092486381531
+Tuned XGBoost,https://www.audio-technica.com.hk,0,1,0.5771423578262329
+Tuned XGBoost,https://wof.fish/forum/index.php/topic/4370-skachat-rybalku/,0,1,0.9923135638237
+Tuned XGBoost,https://cross-webmedia.com/,0,1,0.5495330691337585
+Tuned XGBoost,http://amazonzjv.co/,1,0,0.04487228766083717
+Tuned XGBoost,https://keensalmon.org/en-ca/exchange,1,0,0.47909119725227356
+Tuned XGBoost,https://keensalmon.org/en-ca/wallet,1,0,0.36188700795173645
+Tuned XGBoost,https://keensalmon.org/en-ca/prime,1,0,0.2740868031978607
+Tuned XGBoost,https://keensalmon.org/en-ca/blog,1,0,0.2951969802379608

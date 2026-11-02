@@ -23,7 +23,7 @@ import {
 
 import './App.css'
 
-const URL_API = 'http://127.0.0.1:8000/api/url/analyze'
+const URL_API = 'http://127.0.0.1:8000/api/scan/analyze'
 const MESSAGE_API = 'http://127.0.0.1:8000/api/message/analyze'
 const QR_API = 'http://127.0.0.1:8000/api/qr/analyze'
 
@@ -235,7 +235,9 @@ function App() {
   const isMessageMode = mode === 'message'
   const isQrMode = mode === 'qr'
 
-  const isPhishing = result?.prediction === 'phishing'
+  const urlAssessment = result?.overall_assessment
+  const urlMlResult = result?.analysis?.url_ml?.result
+  const isPhishing = urlAssessment?.model_prediction === 'phishing'
   const isSpam = result?.message_assessment === 'spam'
 
   const qrUrlResult = qrResult?.url_analysis
@@ -565,73 +567,147 @@ function App() {
         )}
 
         {result && !loading && isUrlMode && (
-          <section className={`result-card ${isPhishing ? 'danger' : 'safe'}`}>
-            <div className="result-top">
-              <div className="result-icon">
-                {isPhishing
-                  ? <ShieldAlert size={29} />
-                  : <ShieldCheck size={29} />}
-              </div>
+  <section className={`result-card unified-result ${isPhishing ? 'danger' : 'safe'}`}>
+    <div className="result-top">
+      <div className="result-icon">
+        {isPhishing ? <ShieldAlert size={29} /> : <ShieldCheck size={29} />}
+      </div>
 
-              <div className="result-heading">
-                <span className="result-label">URL SCAN RESULT</span>
+      <div className="result-heading">
+        <span className="result-label">COMPREHENSIVE URL SCAN</span>
+        <h2>
+          {isPhishing
+            ? 'Potential Phishing Detected'
+            : 'No Strong Phishing Indicators Detected'}
+        </h2>
+        <p>
+          {result.overall_assessment?.recommendation ||
+            'Assessment based on URL machine-learning analysis and supporting DNS and SSL/TLS checks.'}
+        </p>
+      </div>
 
-                <h2>
-                  {isPhishing
-                    ? 'Potential Phishing Detected'
-                    : 'Model Classified as Legitimate'}
-                </h2>
+      <span className={`result-pill ${isPhishing ? 'pill-danger' : 'pill-safe'}`}>
+        {result.overall_assessment?.risk_level ||
+          (isPhishing ? 'HIGH RISK' : 'LOW RISK')}
+      </span>
+    </div>
 
-                <p>
-                  {isPhishing
-                    ? 'The model identified suspicious URL characteristics.'
-                    : 'The model did not identify strong phishing indicators in this URL.'}
-                </p>
-              </div>
+    <div className="scanned-url">
+      <Globe size={16} />
+      <span>{result.url}</span>
+      <ArrowUpRight size={15} />
+    </div>
 
-              <span className={`result-pill ${isPhishing ? 'pill-danger' : 'pill-safe'}`}>
-                {isPhishing ? 'PHISHING' : 'LEGITIMATE'}
-              </span>
+    <div className="result-metrics">
+      <div className="metric">
+        <span>Risk score</span>
+        <strong>
+          {formatRisk(urlAssessment?.risk_score)}
+          <small>/100</small>
+        </strong>
+        {renderRiskBar(urlAssessment?.risk_score ?? 0, isPhishing)}
+      </div>
+
+      <div className="metric">
+        <span>Phishing probability</span>
+        <strong>{formatScore(urlAssessment?.phishing_probability)}</strong>
+      </div>
+
+      <div className="metric">
+        <span>Detection model</span>
+        <strong className="model-name">
+          {urlMlResult?.model || 'Random Forest'}
+        </strong>
+      </div>
+
+      <div className="metric">
+        <span>Features evaluated</span>
+        <strong>{urlMlResult?.features_used ?? 'N/A'}</strong>
+      </div>
+    </div>
+
+    <div className="scan-engine-section">
+      <div className="scan-section-heading">
+        <h3>Security engine status</h3>
+        <span>Analysis components</span>
+      </div>
+
+      <div className="engine-status-grid">
+        {[
+          { name: 'URL Intelligence', status: result.engine_status?.url_ml },
+          { name: 'DNS Analysis', status: result.engine_status?.dns },
+          { name: 'SSL / TLS Analysis', status: result.engine_status?.ssl_tls }
+        ].map((engine) => (
+          <div className="engine-status-card" key={engine.name}>
+            <div className="engine-status-heading">
+              <span>{engine.name}</span>
+              {engine.status === 'completed' ? (
+                <CheckCircle2 size={17} />
+              ) : (
+                <AlertTriangle size={17} />
+              )}
             </div>
+            <strong className={`engine-status-value status-${engine.status || 'unavailable'}`}>
+              {(engine.status || 'unavailable').replaceAll('_', ' ')}
+            </strong>
+          </div>
+        ))}
+      </div>
+    </div>
 
-            <div className="scanned-url">
-              <Globe size={16} />
-              <span>{result.url}</span>
-              <ArrowUpRight size={15} />
+    <div className="scan-engine-section">
+      <div className="scan-section-heading">
+        <h3>Security evidence</h3>
+        <span>{result.evidence_summary?.total ?? result.evidence?.length ?? 0} observations</span>
+      </div>
+
+      {Array.isArray(result.evidence) && result.evidence.length > 0 ? (
+        <div className="evidence-list">
+          {result.evidence.map((item, index) => (
+            <div
+              className={`evidence-item evidence-${item.severity || 'informational'}`}
+              key={`${item.title || item.message || 'evidence'}-${index}`}
+            >
+              <div className="evidence-indicator">
+                {item.severity === 'high' ? (
+                  <ShieldAlert size={18} />
+                ) : item.severity === 'medium' ? (
+                  <AlertTriangle size={18} />
+                ) : (
+                  <CheckCircle2 size={18} />
+                )}
+              </div>
+
+              <div className="evidence-content">
+                <div className="evidence-heading">
+                  <strong>{item.title || item.message || 'Security observation'}</strong>
+                  <span className="evidence-severity">
+                    {item.severity || 'informational'}
+                  </span>
+                </div>
+                {item.description && <p>{item.description}</p>}
+                {item.details && <p>{item.details}</p>}
+              </div>
             </div>
+          ))}
+        </div>
+      ) : (
+        <p className="no-evidence">No additional security evidence was returned.</p>
+      )}
+    </div>
 
-            <div className="result-metrics">
-              <div className="metric">
-                <span>Risk score</span>
-                <strong>{formatRisk(result.risk_score)}<small>/100</small></strong>
-                {renderRiskBar(result.risk_score, isPhishing)}
-              </div>
+    {result.notice && (
+      <div className="assessment-recommendation">
+        <AlertTriangle size={18} />
+        <p>{result.notice}</p>
+      </div>
+    )}
 
-              <div className="metric">
-                <span>Phishing probability</span>
-                <strong>{formatScore(result.phishing_probability)}</strong>
-              </div>
-
-              <div className="metric">
-                <span>Detection model</span>
-                <strong className="model-name">{result.model}</strong>
-              </div>
-
-              <div className="metric">
-                <span>Features evaluated</span>
-                <strong>{result.features_used}</strong>
-              </div>
-            </div>
-
-            <div className="result-disclaimer">
-              <AlertTriangle size={17} />
-              <p>
-                This is an ML-based assessment, not a definitive threat verdict.
-                A legitimate classification does not guarantee that a website is safe.
-              </p>
-            </div>
-          </section>
-        )}
+    <div className="result-disclaimer">
+      Automated security assessment. A low risk score does not guarantee that a URL is safe.
+    </div>
+  </section>
+)}
 
         {result && !loading && isMessageMode && (
           <section className="message-results">
